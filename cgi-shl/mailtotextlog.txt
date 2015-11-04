@@ -1,0 +1,3984 @@
+Submitted at Mon Jan 04 01:51:59 1999 from 206.28.207.186
+
+Name:                               1234567879012345678790
+Title:                              1234567879012345678790
+Company:                            1234567879012345678790
+StreetAddr:                         1234567879012345678790
+City:                               1234567879012345678790
+State:                              1234567879012345678790
+ZipCode1:                           1234567879012345678790
+ZipCode:                            1234567879012345678790
+Phone:                              1234567879012345678790
+FAX:                                1234567879012345678790
+eaddress:                           1234567879012345678790
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Mon Jan 04 01:52:27 1999 from 206.28.207.186
+
+Name:                               123456787901234567879012345678790
+Title:                              123456787901234567879012345678790
+Company:                            123456787901234567879012345678790
+StreetAddr:                         123456787901234567879012345678790
+City:                               123456787901234567879012345678790
+State:                              123456787901234567879012345678790
+ZipCode1:                           123456787901234567879012345678790
+ZipCode:                            123456787901234567879012345678790
+Phone:                              123456787901234567879012345678790
+FAX:                                123456787901234567879012345678790
+eaddress:                           123456787901234567879012345678790
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Mon Jan 04 02:01:08 1999 from 206.28.207.188
+
+Name:                               012345678901234567890123456789
+Title:                              012345678901234567890123456789
+Company:                            012345678901234567890123456789
+StreetAddr:                         012345678901234567890123456789
+City:                               012345678901234567890123456789
+State:                              012345678901234567890123456789
+ZipCode1:                           012345678901234567890123456789
+ZipCode:                            012345678901234567890123456789
+Phone:                              012345678901234567890123456789
+FAX:                                012345678901234567890123456789
+eaddress:                           012345678901234567890123456789
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Mon Jan 04 02:06:05 1999 from 206.28.207.187
+
+Name:                               012345678901234567890123456789
+Title:                              012345678901234567890123456789
+Company:                            012345678901234567890123456789
+StreetAddr:                         012345678901234567890123456789
+City:                               012345678901234567890123456789
+State:                              012345678901234567890123456789
+ZipCode1:                           012345678901234567890123456789
+ZipCode:                            012345678901234567890123456789
+Phone:                              012345678901234567890123456789
+FAX:                                012345678901234567890123456789
+eaddress:                           edelente@enforme.com
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Mon Jan 04 03:12:15 1999 from 206.28.207.186
+
+Name:                               123456789012345678901234567890
+Title:                              123456789012345678901234567890
+Company:                            123456789012345678901234567890
+StreetAddr:                         123456789012345678901234567890
+City:                               123456789012345678901234567890
+State:                              123456789012345678901234567890
+ZipCode1:                           123456789012345678901234567890
+ZipCode:                            123456789012345678901234567890
+Phone:                              123456789012345678901234567890
+FAX:                                123456789012345678901234567890
+eaddress:                           edelente@enforme.com
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Mon Jan 04 15:28:40 1999 from 152.163.232.58
+
+Name:                               carrie
+Title:                              prez
+Company:                            f
+StreetAddr:                         f
+City:                               f
+State:                              f
+ZipCode1:                           f
+ZipCode:                            f
+Phone:                              f
+FAX:                                f
+eaddress:                           f
+recep_6-21:                         YES
+Federal/State/Municipal Government: ON
+
+Submitted at Mon Jan 04 15:29:36 1999 from 152.163.232.58
+
+Name:                               C
+Title:                              C
+Company:                            C
+StreetAddr:                         C
+City:                               C
+State:                              C
+ZipCode1:                           C
+ZipCode:                            C
+Phone:                              C
+FAX:                                C
+eaddress:                           C
+lunch_6-22:                         YES
+Federal/State/Municipal Government: ON
+
+Submitted at Tue Jan 05 11:22:02 1999 from 206.28.207.186
+
+Name:                               01213456789012134567890121345678901213456789
+Title:                              0121345678901213456789012134567890121345678901213456789
+Company:                            01213456789012134567890121345678901213456789
+StreetAddr:                         012134567890121345678901213456789
+City:                               01213456789012134567890121345678901213456789
+State:                              012134567890121345678901213456789
+ZipCode1:                           012134567890121345678901213456789
+ZipCode:                            012134567890121345678901213456789
+Phone:                              012134567890121345678901213456789
+FAX:                                012134567890121345678901213456789
+eaddress:                           edelente@aol.com
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Tue Jan 05 12:29:07 1999 from 206.28.207.186
+
+Name:                               012134567890121345678901213456789
+Title:                              012134567890121345678901213456789
+Company:                            012134567890121345678901213456789
+StreetAddr:                         012134567890121345678901213456789
+City:                               012134567890121345678901213456789
+State:                              012134567890121345678901213456789
+ZipCode1:                           012134567890121345678901213456789
+ZipCode:                            012134567890121345678901213456789
+Phone:                              012134567890121345678901213456789
+FAX:                                012134567890121345678901213456789
+eaddress:                           edelente@aol.com
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Tue Jan 05 12:31:41 1999 from 206.28.207.186
+
+Name:       012134567890121345678901213456789
+Name:       012134567890121345678901213456789
+Name:       012134567890121345678901213456789
+Title:      012134567890121345678901213456789
+Company:    012134567890121345678901213456789
+StreetAddr: 012134567890121345678901213456789
+City:       012134567890121345678901213456789
+State:      012134567890121345678901213456789
+ZipCode1:   012134567890121345678901213456789
+ZipCode:    012134567890121345678901213456789
+Phone:      012134567890121345678901213456789
+FAX:        012134567890121345678901213456789
+eaddress:   edelente@aol.com
+
+Submitted at Tue Jan 05 12:35:50 1999 from 152.163.232.19
+
+Name:                       012345678901234567890123456789
+Name:                       012345678901234567890123456789
+Name:                       012345678901234567890123456789
+Title:                      012345678901234567890123456789
+Company:                    012345678901234567890123456789
+StreetAddr:                 012345678901234567890123456789
+City:                       012345678901234567890123456789
+State:                      012345678901234567890123456789
+ZipCode1:                   012345678901234567890123456789
+ZipCode:                    012345678901234567890123456789
+Phone:                      012345678901234567890123456789
+FAX:                        012345678901234567890123456789
+eaddress:                   cdelente@enforme.com
+recep_6-21:                 YES
+lunch_6-22:                 YES
+lunch_623:                  YES
+host_recep_6-23:            YES
+Engineering/Architect Firm: ON
+R&D Organization:           ON
+Cogenerator:                ON
+
+Submitted at Tue Jan 05 12:41:43 1999 from 206.28.207.186
+
+Name:                               012134567890121345678901213456789
+Name:                               012134567890121345678901213456789
+Name:                               012134567890121345678901213456789
+Title:                              012134567890121345678901213456789
+Company:                            012134567890121345678901213456789
+StreetAddr:                         012134567890121345678901213456789
+City:                               012134567890121345678901213456789
+State:                              012134567890121345678901213456789
+ZipCode1:                           012134567890121345678901213456789
+ZipCode:                            012134567890121345678901213456789
+Phone:                              012134567890121345678901213456789
+FAX:                                012134567890121345678901213456789
+eaddress:                           edelente@aol.com
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Tue Jan 05 12:43:57 1999 from 206.28.207.187
+
+Name:                       1234567891012345678910
+Name:                       1234567891012345678910
+Name:                       1234567891012345678910
+Title:                      1234567891012345678910
+Company:                    1234567891012345678910
+StreetAddr:                 123456789101234567891012345678910
+City:                       1234567891012345678910
+State:                      1234567891012345678910
+ZipCode1:                   123456789101234567891012345678910
+ZipCode:                    123456789101234567891012345678910
+Phone:                      123456789101234567891012345678910
+FAX:                        1234567891012345678910
+eaddress:                   1234567891012345678910
+recep_6-21:                 YES
+Engineering/Architect Firm: ON
+
+Submitted at Tue Jan 05 12:44:21 1999 from 206.28.207.187
+
+Name:                       1234567891012345678910
+Name:                       1234567891012345678910
+Name:                       1234567891012345678910
+Title:                      1234567891012345678910
+Company:                    1234567891012345678910
+StreetAddr:                 123456789101234567891012345678910
+City:                       1234567891012345678910
+State:                      1234567891012345678910
+ZipCode1:                   123456789101234567891012345678910
+ZipCode:                    123456789101234567891012345678910
+Phone:                      123456789101234567891012345678910
+FAX:                        1234567891012345678910
+eaddress:                   cdelente@enforme.com
+recep_6-21:                 YES
+Engineering/Architect Firm: ON
+
+Submitted at Tue Jan 05 12:51:30 1999 from 206.28.207.186
+
+Name:                               012134567890121345678901213456789012134567890121345678901213456789
+Name:                               012134567890121345678901213456789
+Name:                               012134567890121345678901213456789
+Title:                              012134567890121345678901213456789
+Company:                            012134567890121345678901213456789
+StreetAddr:                         012134567890121345678901213456789
+City:                               012134567890121345678901213456789
+State:                              012134567890121345678901213456789
+ZipCode1:                           012134567890121345678901213456789
+ZipCode:                            012134567890121345678901213456789
+Phone:                              012134567890121345678901213456789
+FAX:                                012134567890121345678901213456789
+eaddress:                           012134567890121345678901213456789
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Tue Jan 05 15:12:56 1999 from 206.28.207.187
+
+lastname:                           1
+FirstNam:                           
+Initial:                            
+LastName:                           012345678901234567890123456789
+Name:                               012345678901234567890123456789
+Title:                              012345678901234567890123456789
+Company:                            012345678901234567890123456789
+StreetAdd1:                         012345678901234567890123456789
+StreetAdd2:                         012345678901234567890123456789
+StreetAdd3:                         012345678901234567890123456789
+City:                               012345678901234567890123456789
+State:                              012345678901234567890123456789
+ZipCode1:                           012345678901234567890123456789
+ZipCode:                            012345678901234567890123456789
+Phone:                              012345678901234567890123456789
+FAX:                                012345678901234567890123456789
+eaddress:                           012345678901234567890123456789
+meal:                               012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Tue Jan 05 15:13:29 1999 from 206.28.207.187
+
+lastname:                           1
+FirstNam:                           012345678901234567890123456789
+Initial:                            
+LastName:                           
+Name:                               012345678901234567890123456789
+Title:                              012345678901234567890123456789
+Company:                            012345678901234567890123456789
+StreetAdd1:                         012345678901234567890123456789
+StreetAdd2:                         012345678901234567890123456789
+StreetAdd3:                         012345678901234567890123456789
+City:                               012345678901234567890123456789
+State:                              012345678901234567890123456789
+ZipCode1:                           012345678901234567890123456789
+ZipCode:                            012345678901234567890123456789
+Phone:                              012345678901234567890123456789
+FAX:                                012345678901234567890123456789
+eaddress:                           012345678901234567890123456789
+meal:                               012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Tue Jan 05 15:17:11 1999 from 206.28.207.187
+
+lastname:                   1
+FirstNam:                   
+Initial:                    
+LastName:                   012345678901234567890123456789
+Name:                       012345678901234567890123456789
+Title:                      012345678901234567890123456789
+Company:                    012345678901234567890123456789
+StreetAdd1:                 012345678901234567890123456789
+StreetAdd2:                 012345678901234567890123456789
+StreetAdd3:                 012345678901234567890123456789
+City:                       012345678901234567890123456789
+State:                      012345678901234567890123456789
+ZipCode1:                   012345678901234567890123456789
+ZipCode:                    012345678901234567890123456789
+Phone:                      012345678901234567890123456789
+FAX:                        012345678901234567890123456789
+eaddress:                   edelente@aol.com
+meal:                       asdflasdf;lkajsdf;lkajdf;laksjdf;lakjsdf;lakjdf;lakdsjf;alkdjf;alksdjf;laksdjf;laksdfj;laksjdf
+recep_6-21:                 YES
+lunch_6-22:                 YES
+lunch_623:                  YES
+sitetour_6-23:              YES
+host_recep_6-23:            YES
+Public Interest Group:      ON
+Independent Power Producer: ON
+Educational Organization:   ON
+Coal Company:               ON
+R&D Organization:           ON
+Consultant  :               ON
+
+Submitted at Tue Jan 05 15:22:25 1999 from 206.28.207.187
+
+FirstName:                          FirstName
+FirstName:                          
+Initial:                            
+LastName:                           012345678901234567890123456789
+Name:                               012345678901234567890123456789
+Title:                              012345678901234567890123456789
+Company:                            012345678901234567890123456789
+StreetAdd1:                         012345678901234567890123456789
+StreetAdd2:                         012345678901234567890123456789
+StreetAdd3:                         012345678901234567890123456789
+City:                               012345678901234567890123456789
+State:                              012345678901234567890123456789
+ZipCode1:                           012345678901234567890123456789
+ZipCode:                            012345678901234567890123456789
+Phone:                              012345678901234567890123456789
+FAX:                                012345678901234567890123456789
+eaddress:                           012345678901234567890123456789
+meal:                               012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Submitted at Tue Jan 05 15:43:32 1999 from 206.28.207.187
+
+FirstName:                          Eric
+Initial:                            H
+LastName:                           Delente
+NameTag:                            Eric Henri Delente
+Title:                              Master
+Company:                            Enforme
+StreetAdd1:                         108 West 12th Street
+StreetAdd2:                         
+StreetAdd3:                         lasdlkjfdkkjfsldkjf
+City:                               Frederick
+State:                              MD
+Country:                            USA
+ZipCode:                            21701
+Phone:                              301-694-5084
+FAX:                                301-694-0273
+eaddress:                           edelente@aol.com
+Meal:                               Hot Dogs and French Fries
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Thank You.  Submitted at Tue Jan 05 15:55:36 1999 from 206.28.207.187
+
+FirstName:                          Eric
+Initial:                            H
+LastName:                           Delente
+NameTag:                            Eric Henri Delente
+Title:                              Master
+Company:                            Enforme
+StreetAdd1:                         108 West 12th Street
+StreetAdd2:                         
+StreetAdd3:                         lasdlkjfdkkjfsldkjf
+City:                               Frederick
+State:                              MD
+Country:                            USA
+ZipCode:                            21701
+Phone:                              301-694-5084
+FAX:                                301-694-0273
+eaddress:                           edelente@aol.com
+Meal:                               Hot Dogs and French Fries
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jan 06 10:39:48 1999 from 206.28.207.187
+
+FirstName:                  Carrie
+Initial:                    A
+LastName:                   Karl
+NameTag:                    carrie karl
+Title:                      pREZ
+Company:                    enforme
+StreetAdd1:                 108 west 12th street
+StreetAdd2:                 
+StreetAdd3:                 
+City:                       frederink
+State:                      md 
+Country:                    usa
+ZipCode:                    21701
+Phone:                      301-694-0273
+FAX:                        301-694-0833
+eaddress:                   cdelente
+Meal:                       sdfadsfadfsadfasdfasdfasdfsdfdasfd
+recep_6-21:                 YES
+sitetour_6-23:              YES
+host_recep_6-23:            YES
+Engineering/Architect Firm: ON
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jan 06 11:00:02 1999 from 206.28.207.187
+
+FirstName:        Carrie
+Initial:          K
+LastName:         Delente
+NameTag:          C
+Title:            the one and only 
+Company:          enforme
+StreetAdd1:       108 west 12th street
+StreetAdd2:       
+StreetAdd3:       
+City:             Frederick
+State:            MD
+ZipCode:          21701
+Country:          sua
+Phone:            301-694-love
+FAX:              301-694-me
+eaddress:         cdelente@enforme.com
+Meal:             I want waffle sticks plethssss
+recep_6-21:       YES
+lunch_6-22:       YES
+lunch_623:        YES
+sitetour_6-23:    YES
+host_recep_6-23:  YES
+lunch_6-24:       YES
+R&D Organization: ON
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jan 07 10:40:30 1999 from 198.124.130.98
+
+FirstName:       robert
+Initial:         lad
+LastName:        ladesic
+NameTag:         
+Title:           
+Company:         doe
+StreetAdd1:      
+StreetAdd2:      
+StreetAdd3:      
+City:            
+State:           
+ZipCode:         
+Country:         us
+Phone:           301
+FAX:             
+eaddress:        
+Meal:            
+recep_6-21:      YES
+host_recep_6-23: YES
+Coal Company:    ON
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Fri Jan 15 14:25:45 1999 from 206.28.207.187
+
+FirstName:             Carrie
+Initial:               A
+LastName:              Karl
+NameTag:               Carrie
+Title:                 prez
+Company:               Enforme
+StreetAdd1:            108 west 12th street 
+StreetAdd2:            
+StreetAdd3:            
+City:                  Frederick
+State:                 MD 
+ZipCode:               21701
+Country:               USA
+Phone:                 30130100
+FAX:                   301
+eaddress:              Cdelente@enforme.com
+Meal:                  Nothing here.
+recep_6-21:            YES
+lunch_6-22:            YES
+lunch_623:             YES
+sitetour_6-23:         YES
+host_recep_6-23:       YES
+lunch_6-24:            YES
+Trade Association:     ON
+Regulatory Agency:     ON
+Financial Institution: ON
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Fri Jan 15 14:54:16 1999 from 206.28.207.187
+
+FirstName:         123456789123456789123456789123456789
+Initial:           
+LastName:          123456789123456789123456789
+NameTag:           123456789123456789123456789
+Title:             123456789123456789123456789
+Company:           123456789123456789123456789
+StreetAdd1:        123456789123456789123456789
+StreetAdd2:        123456789
+StreetAdd3:        123456789
+City:              123456789123456789123456789123456789
+State:             123456789123456789123456789123456789
+ZipCode:           123456789123456789123456789
+Country:           123456789123456789123456789
+Phone:             123456789123456789123456789
+FAX:               123456789123456789123456789
+eaddress:          123456789123456789
+Meal:              123456789123456789123456789123456789
+recep_6-21:        YES
+lunch_6-22:        YES
+lunch_623:         YES
+sitetour_6-23:     YES
+host_recep_6-23:   YES
+lunch_6-24:        YES
+Trade Association: ON
+
+Thank you for submitting you registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call 555-1212
+
+FirstName:                  012345678901234567890123456789
+Initial:                    
+LastName:                   01234567890123456789
+NameTag:                    01234567890123456789
+Title:                      01234567890123456789
+Company:                    01234567890123456789
+StreetAdd1:                 01234567890123456789
+StreetAdd2:                 01234567890123456789
+StreetAdd3:                 01234567890123456789
+City:                       01234567890123456789
+State:                      012345678901234567890123456789
+ZipCode:                    01234567890123456789
+Country:                    012345678901234567890123456789
+Phone:                      01234567890123456789
+FAX:                        01234567890123456789
+eaddress:                   01234567890123456789
+Meal:                       012345678901234567890123456789
+recep_6-21:                 YES
+lunch_6-22:                 YES
+Engineering/Architect Firm: ON
+
+Thank you for submitting you registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call 555-1212
+
+FirstName:                  012345678901234567890123456789
+Initial:                    
+LastName:                   01234567890123456789
+NameTag:                    0123456789012345678901234567890123456789
+Title:                      01234567890123456789
+Company:                    01234567890123456789
+StreetAdd1:                 01234567890123456789
+StreetAdd2:                 01234567890123456789
+StreetAdd3:                 01234567890123456789
+City:                       01234567890123456789
+State:                      012345678901234567890123456789
+ZipCode:                    01234567890123456789
+Country:                    01234567890123456789
+Phone:                      01234567890123456789
+FAX:                        01234567890123456789
+eaddress:                   01234567890123456789
+Meal:                       012345678901234567890123456789
+recep_6-21:                 YES
+lunch_6-22:                 YES
+lunch_623:                  YES
+Engineering/Architect Firm: ON
+
+Thank you for submitting you registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call 555-1212
+
+FirstName:                  012345678901234567890123456789
+Initial:                    
+LastName:                   01234567890123456789
+NameTag:                    0123456789012345678901234567890123456789
+Title:                      01234567890123456789
+Company:                    01234567890123456789
+StreetAdd1:                 01234567890123456789
+StreetAdd2:                 01234567890123456789
+StreetAdd3:                 01234567890123456789
+City:                       01234567890123456789
+State:                      012345678901234567890123456789
+ZipCode:                    01234567890123456789
+Country:                    01234567890123456789
+Phone:                      01234567890123456789
+FAX:                        01234567890123456789
+eaddress:                   01234567890123456789
+Meal:                       012345678901234567890123456789
+recep_6-21:                 YES
+lunch_6-22:                 YES
+lunch_623:                  YES
+Engineering/Architect Firm: ON
+
+Thank you for submitting you registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call 555-1212
+
+FirstName:                  012345678901234567890123456789
+Initial:                    
+LastName:                   01234567890123456789
+NameTag:                    0123456789012345678901234567890123456789
+Title:                      01234567890123456789
+Company:                    01234567890123456789
+StreetAdd1:                 01234567890123456789
+StreetAdd2:                 01234567890123456789
+StreetAdd3:                 01234567890123456789
+City:                       01234567890123456789
+State:                      012345678901234567890123456789
+ZipCode:                    01234567890123456789
+Country:                    01234567890123456789
+Phone:                      01234567890123456789
+FAX:                        01234567890123456789
+eaddress:                   01234567890123456789
+Meal:                       012345678901234567890123456789
+recep_6-21:                 YES
+lunch_6-22:                 YES
+lunch_623:                  YES
+Engineering/Architect Firm: ON
+
+Thank you for submitting you registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call 555-1212
+
+FirstName:                  Gloob
+Initial:                    g
+LastName:                   Wooby
+NameTag:                    Glooby Wooby
+Title:                      adf;lkajsdf;lkj
+Company:                    frooby
+StreetAdd1:                 snoioby`
+StreetAdd2:                 glooad;fllkolkj sk sdkjsd fksdj 
+StreetAdd3:                 kj asdfkjasdlk ekj asdlfkj eksksdkj 
+City:                       lkajs dfalksakjelkj sflkjasdf l`
+State:                      SADF;LKASJDF 
+ZipCode:                    lkjALSDKJ
+Country:                    ASLDKJFK
+Phone:                      ASDFADFADF
+recep_6-21:                 YES
+Engineering/Architect Firm: ON
+
+Thank you for submitting you registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call 555-1212
+
+FirstName:                  GLLEEBRY
+Initial:                    g
+LastName:                   Wooby
+NameTag:                    Glooby Wooby
+Title:                      adf;lkajsdf;lkj
+Company:                    frooby
+StreetAdd1:                 snoioby`
+StreetAdd2:                 glooad;fllkolkj sk sdkjsd fksdj 
+StreetAdd3:                 kj asdfkjasdlk ekj asdlfkj eksksdkj 
+City:                       lkajs dfalksakjelkj sflkjasdf l`
+State:                      SADF;LKASJDF 
+ZipCode:                    lkjALSDKJ
+Country:                    ASLDKJFK
+Phone:                      ASDFADFADF
+recep_6-21:                 YES
+Engineering/Architect Firm: ON
+
+Thank you for submitting you registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call 555-1212
+
+FirstName:                  Reggie
+Initial:                    R
+LastName:                   Reginald
+NameTag:                    Regie Reginald
+Company:                    Reggie's Company
+StreetAdd1:                 12345678 Longnameforastreet Avenue
+StreetAdd2:                 3rd floor, just past the mailbox - after the semicolon;
+StreetAdd3:                 trun right then left then right then left
+City:                       Reallyverylongnamefor a city withchars;.,/
+State:                      thisis areallylongname for hthe state
+ZipCode:                    21456789605944388234440
+Country:                    longnameforacountry
+Phone:                      3016549874
+eaddress:                   edelente@aol.com
+Meal:                       This is a long field name
+recep_6-21:                 YES
+lunch_6-22:                 YES
+lunch_6-24:                 YES
+Engineering/Architect Firm: ON
+Independent Power Producer: ON
+
+Thank you for submitting you registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call 555-1212
+
+FirstName:                  Reggie
+Initial:                    R
+LastName:                   Reginald
+NameTag:                    Regie Reginald
+Company:                    Reggie's Company
+StreetAdd1:                 12345678 Longnameforastreet Avenue
+StreetAdd2:                 3rd floor, just past the mailbox - after the semicolon;
+StreetAdd3:                 trun right then left then right then left
+City:                       Reallyverylongnamefor a city withchars;.,/
+State:                      thisis areallylongname for hthe state
+ZipCode:                    21456789605944388234440
+Country:                    longnameforacountry
+Phone:                      3016549874
+eaddress:                   edelente@aol.com
+Meal:                       This is a long field name
+recep_6-21:                 YES
+lunch_6-22:                 YES
+lunch_6-24:                 YES
+Engineering/Architect Firm: ON
+Independent Power Producer: ON
+
+Thank you for submitting you registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call 555-1212
+
+FirstName:   firstname
+Initial:    mi
+LastName:   lastname
+NameTag:     
+Title:      
+Company:    co
+StreetAdd1: 
+StreetAdd2: 
+StreetAdd3: 
+City:       
+State:      
+ZipCode:    
+Country:    c
+Phone:      c
+FAX:        
+eaddress:   
+Meal:       
+
+Thank you for submitting you registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call 555-1212
+
+FirstName:                          fname
+Initial:                            mi
+LastName:                           lastname
+NameTag:                            name
+Title:                              title
+Company:                            company
+StreetAdd1:                         street1
+StreetAdd2:                         street2
+StreetAdd3:                         street3
+City:                               city
+State:                              state
+ZipCode:                            zip
+Country:                            countryc
+Phone:                              phone
+FAX:                                fax
+eaddress:                           email
+Meal:                               mealreqs
+recep_6-21:                         YES
+lunch_6-22:                         YES
+lunch_623:                          YES
+sitetour_6-23:                      YES
+host_recep_6-23:                    YES
+lunch_6-24:                         YES
+Engineering/Architect Firm:         ON
+Public Interest Group:              ON
+Independent Power Producer:         ON
+Educational Organization:           ON
+Coal Company:                       ON
+R&D Organization:                   ON
+Investor Owned Utility:             ON
+Environmental Organization:         ON
+Cogenerator:                        ON
+Federal/State/Municipal Government: ON
+Management Company:                 ON
+Trade Association:                  ON
+Consultant  :                       ON
+Regulatory Agency:                  ON
+Original Equipment Manufacturer:    ON
+Financial Institution:              ON
+Other:                              ON
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:  Eric 
+Initial:    H
+LastName:   Delente
+NameTag:    Eric Delente
+Title:      Manager
+Company:    Enforme
+StreetAdd1: 108 West 12th Street
+StreetAdd2: Programming division
+StreetAdd3: Basement
+City:       Frederick
+State:      MD
+ZipCode:    21701
+Country:    usa
+Phone:      3016945084
+FAX:        3016940273
+eaddress:   EDELENTE@AOL.COM
+Meal:       
+lunch_6_21: I will not
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:  Xarrie
+Initial:    
+LastName:   Delente
+NameTag:    
+Title:      
+Company:    Enforme
+StreetAdd1: 
+StreetAdd2: 
+StreetAdd3: 
+City:       
+State:      
+ZipCode:    
+Country:    usa
+Phone:      3016945084
+FAX:        
+eaddress:   
+Meal:       
+recep_6_21: V2
+lunch_6_22: V2
+lunch_6_23: V2
+tour_6_23:  V2
+recep_6_23: V2
+lunch_6_24: V2
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:  Christophe
+Initial:    JH
+LastName:   Delente
+NameTag:    Xtophe
+Title:      
+Company:    Enforme
+StreetAdd1: 
+StreetAdd2: 
+StreetAdd3: 
+City:       
+State:      
+ZipCode:    
+Country:    usa
+Phone:      301-694-5084
+FAX:        
+eaddress:   
+Meal:       
+recep_6_21: YES
+lunch_6_22: NO
+lunch_6_23: YES
+tour_6_23:  NO
+recep_6_23: YES
+lunch_6_24: NO
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   a
+Initial:     
+LastName:    a
+NameTag:     
+Title:       
+Company:     a
+StreetAdd1:  
+StreetAdd2:  
+StreetAdd3:  
+City:        
+State:       
+ZipCode:     
+Country:     a
+Phone:       a
+FAX:         
+eaddress:    
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   a
+Initial:     
+LastName:    a
+NameTag:     
+Title:       
+Company:     a
+StreetAdd1:  
+StreetAdd2:  
+StreetAdd3:  
+City:        
+State:       
+ZipCode:     
+Country:     a
+Phone:       a
+FAX:         
+eaddress:    
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   Eric
+Initial:     H
+LastName:    Delente
+NameTag:     Eric Delente
+Title:       Manager
+Company:     Enforme Interactive
+StreetAdd1:  108 West 12th Street
+StreetAdd2:  
+StreetAdd3:  
+City:        Frederick
+State:       MD
+ZipCode:     21701
+Country:     USA
+Phone:       301-694-5084
+FAX:         301694-0833
+eaddress:    edelente@aol.com
+Meal:        Hot dogs and Fries
+recep_6_21:  YES
+lunch_6_22:  NO
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  YES
+lunch_6_24:  NO
+affiliation: Engineering/Architect Firm 
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   Eric2
+Initial:     H
+LastName:    Delente2
+NameTag:     Eric Delente2
+Title:       Manager2
+Company:     Enforme Interactive2
+StreetAdd1:  108 West 12th Street2
+StreetAdd2:  2
+StreetAdd3:  2
+City:        Frederick2
+State:       MD2
+ZipCode:     217012
+Country:     USA2
+Phone:       301-694-50842
+FAX:         301694-08332
+eaddress:    edelente@aol.com2
+Meal:        Hot dogs and Fries2
+recep_6_21:  YES
+lunch_6_22:  NO
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  YES
+lunch_6_24:  NO
+affiliation: Financial Institution
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   Eric23
+Initial:     H
+LastName:    Delente23
+NameTag:     Eric Delente23
+Title:       Manager23
+Company:     Enforme Interactive23
+StreetAdd1:  108 West 12th Street23
+StreetAdd2:  23
+StreetAdd3:  23
+City:        Frederick23
+State:       MD23
+ZipCode:     2170123
+Country:     USA23
+Phone:       301-694-508423
+FAX:         301694-083323
+eaddress:    edelente@aol.com23
+Meal:        Hot dogs and Fries23
+recep_6_21:  NO
+lunch_6_22:  YES
+lunch_6_23:  NO
+tour_6_23:   YES
+recep_6_23:  NO
+lunch_6_24:  YES
+affiliation: Management Company
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   Eric234
+Initial:     H
+LastName:    Delente234
+NameTag:     Eric Delente234
+Title:       Manager234
+Company:     Enforme Interactive234
+StreetAdd1:  108 West 12th Street234
+StreetAdd2:  234
+StreetAdd3:  234
+City:        Frederick234
+State:       MD234
+ZipCode:     21701234
+Country:     USA234
+Phone:       301-694-5084234
+FAX:         301694-0833234
+eaddress:    edelente@aol.com234
+Meal:        Hot dogs and Fries234
+recep_6_21:  YES
+lunch_6_22:  NO
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Trade Association
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   William
+Initial:     J
+LastName:    Smith
+NameTag:     Bill Smith
+Title:       General Manager
+Company:     Smith Coal Mines
+StreetAdd1:  123 Main Streat
+StreetAdd2:  Apartment 3
+StreetAdd3:  234
+City:        Glascow
+State:       
+ZipCode:     EWR 567 778
+Country:     UK
+Phone:       301-694-5084234
+FAX:         301694-0833234
+eaddress:    edelente@aol.com234
+Meal:        Hagas and single malt scotch
+recep_6_21:  YES
+lunch_6_22:  NO
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Trade Association
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   Joe
+Initial:     J
+LastName:    Smith
+NameTag:     Joe
+Title:       President
+Company:     DOE
+StreetAdd1:  108 West 11th Street
+StreetAdd2:  Suite 100
+StreetAdd3:  
+City:        Washington
+State:       DC
+ZipCode:     20001
+Country:     USA
+Phone:       202-222-2222
+FAX:         202-222-3333
+eaddress:    joe@doe.com
+Meal:        Pepsi
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Management Company
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   Pierre
+Initial:     J
+LastName:    Delacroix
+NameTag:     P. Delacroix
+Title:       Engineer
+Company:     EDF
+StreetAdd1:  87 Rue de la Gare
+StreetAdd2:  
+StreetAdd3:  234
+City:        Cabourg
+State:       Calvados
+ZipCode:     14059
+Country:     France
+Phone:       301-694-5084234
+FAX:         301694-0833234
+eaddress:    edelente@aol.com234
+Meal:        Camenbert and Beaujolais
+recep_6_21:  NO
+lunch_6_22:  NO
+lunch_6_23:  NO
+tour_6_23:   NO
+recep_6_23:  NO
+lunch_6_24:  YES
+affiliation: Independent Power Producer
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   Carrie
+Initial:     A
+LastName:    Karl
+NameTag:     Carrie
+Title:       Director
+Company:     Software Inc
+StreetAdd1:  111 West Howare Street
+StreetAdd2:  Suite 1A
+StreetAdd3:  
+City:        Baltimore
+State:       MD
+ZipCode:     21701
+Country:     USA
+Phone:       301-111-1111
+FAX:         301-222-2222
+eaddress:    Ckarl@softwareinc.com
+Meal:        No meat
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Coal Company
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   John
+Initial:     J
+LastName:    Doe
+NameTag:     JD Doe
+Title:       
+Company:     RTG
+StreetAdd1:  
+StreetAdd2:  
+StreetAdd3:  
+City:        
+State:       NY
+ZipCode:     10021
+Country:     France
+Phone:       301-694-5084234
+FAX:         
+eaddress:    
+Meal:        Vegetarian
+recep_6_21:  YES
+lunch_6_22:  NO
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Consultant
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   Carrie
+Initial:     K
+LastName:    Delente
+NameTag:     Carrie
+Title:       Project Manager
+Company:     Web Inc.
+Office:      Frederick
+StreetAdd1:  108 West 10th Street
+StreetAdd2:  Sutie 200
+StreetAdd3:  
+City:        Frederick
+State:       MD
+ZipCode:     21701
+Country:     USA
+Phone:       301-694-0000
+FAX:         301-694-0001
+eaddress:    carrie.delente@go-planet.com
+Meal:        This is a sample form sent over for your approval. Hope this works for you.
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Management Company
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+FirstName:   Frank
+Initial:     J
+LastName:    Frlorbharbherson
+NameTag:     Frankie
+Title:       Boss
+Company:     Big Coal Company
+Office:      Corner Office
+StreetAdd1:  111 West 111th Street
+StreetAdd2:  Suite 111
+StreetAdd3:  
+City:        New York
+State:       NY
+ZipCode:     10111
+Country:     USA
+Phone:       2126569874
+FAX:         2126569874
+eaddress:    
+Meal:        Hot Dogs
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+Unique ID:   1431699968226
+FirstName:   a
+Initial:     a
+LastName:    a
+NameTag:     a
+Title:       a
+Company:     a
+Office:      a
+StreetAdd1:  a
+StreetAdd2:  a
+StreetAdd3:  a
+City:        a
+State:       a
+ZipCode:     a
+Country:     a
+Phone:       a
+FAX:         a
+eaddress:    cdelente@enforme.com
+Meal:        beer
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+Unique ID:   1591699968406
+FirstName:   b
+Initial:     b
+LastName:    b
+NameTag:     b
+Title:       b
+Company:     b
+Office:      b
+StreetAdd1:  b
+StreetAdd2:  b
+StreetAdd3:  b
+City:        b
+State:       b
+ZipCode:     bb
+Country:     b
+Phone:       b
+FAX:         b
+eaddress:    cdelente@enforme.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+Unique ID:   1211231321379
+FirstName:   Faith, L.
+Initial:     
+LastName:    Cline
+NameTag:     Faith Cline
+Title:       Program Analyst
+Company:     U.S. Department of Energy
+Office:      Office of Coal and Power Systems
+StreetAdd1:  1000 Independence Avenue, SW
+StreetAdd2:  
+StreetAdd3:  
+City:        Washington
+State:       DC
+ZipCode:     20585
+Country:     USA
+Phone:       202-586-7920
+FAX:         202-586-8488
+eaddress:    faith.cline@hq.doe.gov
+Meal:        None
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+Unique ID:   0241231323136
+FirstName:   Jean, L.
+Initial:     
+LastName:    Lerch
+NameTag:     Jean Lerch
+Title:       
+Company:     U.S. Department of Energy
+Office:      Office of Fossil Energy
+StreetAdd1:  1000 Independence Avenue, SW
+StreetAdd2:  
+StreetAdd3:  
+City:        Washington
+State:       DC
+ZipCode:     20585
+Country:     USA
+Phone:       202-586-7320
+FAX:         202-586-8488
+eaddress:    jean.lerch@hq.doe.gov
+Meal:        None
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+Unique ID:   1991700331972
+FirstName:   Carrie
+Initial:     K
+LastName:    Delente
+NameTag:     Carrie
+Title:       Webmaster
+Company:     Planet Technologies
+Office:      Main
+StreetAdd1:  1009  Grovemont Ave
+StreetAdd2:  
+StreetAdd3:  
+City:        Gaithersburg
+State:       Maryland
+ZipCode:     21701
+Country:     USA
+Phone:       301-721-0100
+FAX:         301-721-0100
+eaddress:    carrie.delente@go-planet.com
+Meal:        This is a test message to see if the changes have been made.
+             Thanks
+             Carrie
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Other
+
+Thank you for submitting your registration for the Clean Coal Conference.  A conference manager will be contacting you within the next 5 business days.  If you find any problems with your submission data, included below, please call  202-586-7920
+
+Unique ID:   2341231449210
+FirstName:   Laura
+Initial:     
+LastName:    Yokley
+NameTag:     Laura Yokley
+Title:       
+Company:     U.S. Department of Energy
+Office:      Office of Coal and Power Systems
+StreetAdd1:  1000 Independence Avenue, SW
+StreetAdd2:  
+StreetAdd3:  
+City:        Washington, DC
+State:       
+ZipCode:     20585
+Country:     USA
+Phone:       202-586-8848
+FAX:         202-586-8488
+eaddress:    laura.yokley@hq.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+
+
+
+Unique ID:   2311700342353
+FirstName:   carrie
+Initial:     k
+LastName:    delente
+NameTag:     carrie
+Title:       web
+Company:     planet
+Office:      gaithersburg
+StreetAdd1:  1009 grovemont
+StreetAdd2:  
+StreetAdd3:  
+City:        gaithersburg
+State:       maryland
+ZipCode:     21701
+Country:     usa
+Phone:       301721-0100
+FAX:         301721-0100
+eaddress:    carrie.delente@go-planet.com
+Meal:        this is a test to see if the message is working.
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: R&D Organization
+
+
+
+
+Unique ID:   0791700342973
+FirstName:   C
+Initial:     K
+LastName:    Delente
+NameTag:     Carrie
+Title:       web
+Company:     planet
+Office:      gburg
+StreetAdd1:  1009 grovemont
+StreetAdd2:  
+StreetAdd3:  
+City:        Gburg
+State:       md
+ZipCode:     21701
+Country:     USA
+Phone:       3017210100
+FAX:         3017210100
+eaddress:    carrie.delente@go-planet.com
+Meal:        this is a test to see if the header text is working in the email submission
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank you for submitting your registration form for the 7th Clean Coal Technology Conference. You have been added to the Conference registration list.  In order to guarantee your registration, a registration fee of $400 must be received no later than June 7, 1999.
+
+Unique ID:   1271700421904
+FirstName:   carrie
+Initial:     K
+LastName:    Delente
+NameTag:     Carrie
+Title:       Web
+Company:     Planet
+Office:      planet
+StreetAdd1:  1009
+StreetAdd2:  j
+StreetAdd3:  j
+City:        gburg
+State:       MD
+ZipCode:     21001
+Country:     usa
+Phone:       301-694-09990
+FAX:         0909090909
+eaddress:    carrie.delente@go-planet.com
+Meal:        This is a test.
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Other
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sat Jan 30 01:32:06 1999 from 206.28.207.187
+
+Unique ID:   1751700457902
+FirstName:   C
+Initial:     c
+LastName:    c
+NameTag:     c
+Title:       c
+Company:     c
+Office:      c
+StreetAdd1:  c
+StreetAdd2:  c
+StreetAdd3:  c
+City:        c
+State:       c
+ZipCode:     c
+Country:     c
+Phone:       c
+FAX:         c
+eaddress:    c
+Meal:        c
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sat Jan 30 01:34:10 1999 from 206.28.207.187
+
+Unique ID:   1431700458017
+FirstName:   C
+Initial:     c
+LastName:    c
+NameTag:     c
+Title:       c
+Company:     c
+Office:      c
+StreetAdd1:  c
+StreetAdd2:  c
+StreetAdd3:  c
+City:        c
+State:       c
+ZipCode:     c
+Country:     c
+Phone:       c
+FAX:         c
+eaddress:    c
+Meal:        c
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sat Jan 30 01:35:35 1999 from 206.28.207.187
+
+Unique ID:   1831700458096
+FirstName:   C
+Initial:     c
+LastName:    c
+NameTag:     c
+Title:       c
+Company:     c
+Office:      c
+StreetAdd1:  c
+StreetAdd2:  c
+StreetAdd3:  c
+City:        c
+State:       c
+ZipCode:     c
+Country:     c
+Phone:       c
+FAX:         c
+eaddress:    c
+Meal:        c
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon Feb 01 10:45:10 1999 from 206.28.207.187
+
+Unique ID:   1751700648733
+FirstName:   Carrie
+Initial:     K
+LastName:    Delente
+NameTag:     Carrie
+Title:       Web
+Company:     Planet
+Office:      Planet
+StreetAdd1:  1009 Grovemont
+StreetAdd2:  
+StreetAdd3:  
+City:        G-burg
+State:       MD
+ZipCode:     21701
+Country:     USA
+Phone:       301-721-0100
+FAX:         301-721-0100
+eaddress:    carrie.delente@enforme.com
+Meal:        This is a test. Everything should be working and corrected on the form. Let me know if there are any problems or additional corrections to the text.
+             Carrie
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Feb 24 09:04:22 1999 from 198.124.130.98
+
+Unique ID:   0931233002887
+FirstName:   robert
+Initial:     p
+LastName:    ladesic
+NameTag:     Elvis
+Title:       
+Company:     US soup & sandwich
+Office:      office
+StreetAdd1:  Campbell Way
+StreetAdd2:  
+StreetAdd3:  
+City:        youknow
+State:       alaska
+ZipCode:     21773
+Country:     usa
+Phone:       3019032650
+FAX:         
+eaddress:    bob.ladesic@hq.doe.gov
+Meal:        this is a test
+recep_6_21:  NO
+lunch_6_22:  NO
+lunch_6_23:  NO
+tour_6_23:   NO
+recep_6_23:  NO
+lunch_6_24:  NO
+affiliation: Other
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sun Mar 07 11:26:27 1999 from 207.223.176.165
+
+Unique ID:   0451599926953
+FirstName:   Robert
+Initial:     C
+LastName:    Porter
+NameTag:     Bob Porter
+Title:       Director of Fossil Energy Communications
+Company:     U.S. Department of Energy
+Office:      Office of Fossil Energy
+StreetAdd1:  1000 Independence Ave SW
+StreetAdd2:  (Mail Stop FE-5)
+StreetAdd3:  
+City:        Washington
+State:       DC
+ZipCode:     20585
+Country:     USA
+Phone:       202-586-6503
+FAX:         202-586-5146
+eaddress:    rcporter@ix.netcom.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Mar 25 21:43:59 1999 from 207.16.152.214
+
+Unique ID:   1911822362434
+FirstName:   Barry 
+Initial:     W.
+LastName:    Diamond
+NameTag:     Barry Diamond
+Title:       Principal Process Engineer
+Company:     Air Products and Chemicals, Inc.
+Office:      MS A12A3
+StreetAdd1:  7201 Hamilton Blvd.
+StreetAdd2:  
+StreetAdd3:  
+City:        Allentown
+State:       PA
+ZipCode:     18195
+Country:     USA
+Phone:       610-481-5944
+FAX:         610-481-2177
+eaddress:    diamonbw@apci.com
+Meal:        Low fat meal
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Other
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Mar 31 16:16:53 1999 from 128.165.109.42
+
+Unique ID:   174810533918
+FirstName:   R. Tom
+Initial:     
+LastName:    Baker
+NameTag:     Tom Baker
+Title:       Research Chemist and Energy Projects Coordinator
+Company:     Los Alamos National Lab
+Office:      Civilian Technologies Programs
+StreetAdd1:  MS C331
+StreetAdd2:  Los Alamos National Lab
+StreetAdd3:  
+City:        Los Alamos
+State:       New Mexico
+ZipCode:     87544
+Country:     USA
+Phone:       505-667-7013
+FAX:         505-667-0603
+eaddress:    weg@lanl.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  NO
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  NO
+affiliation: R&D Organization
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon Apr 05 09:30:26 1999 from 204.171.67.242
+
+Unique ID:   0371937238658
+FirstName:   John
+Initial:     L.
+LastName:    Haslbeck
+NameTag:     John Haslbeck
+Title:       Senior Program Manager
+Company:     Parsons Infrastructure & Technology
+Office:      Federal Energy Technology Center
+StreetAdd1:  P.O. Box 18288
+StreetAdd2:  Building 922
+StreetAdd3:  Room 157
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236
+Country:     USA
+Phone:       (412) 892-5968
+FAX:         (412) 892-4834
+eaddress:    haslbeck@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Apr 08 10:38:59 1999 from 206.28.207.186
+
+Unique ID:   1511701361865
+FirstName:   test2
+Initial:     
+LastName:    test2
+NameTag:     test
+Title:       test2
+Company:     test2
+Office:      test2
+StreetAdd1:  test2
+StreetAdd2:  test2
+StreetAdd3:  test2
+City:        test2
+State:       test2
+ZipCode:     test2
+Country:     test2
+Phone:       test2
+FAX:         test2
+eaddress:    test2
+Meal:        test2
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sun Apr 18 09:36:09 1999 from 208.243.239.34
+
+Unique ID:   072736113313
+FirstName:   Harry
+Initial:     T
+LastName:    Morehead
+NameTag:     Harry
+Title:       Manager, New Program Development
+Company:     Siemens Westinghouse Power Corp.
+Office:       
+StreetAdd1:  4400 Alafaya Trail, MC 381
+StreetAdd2:  
+StreetAdd3:  
+City:        Orlando
+State:       FL
+ZipCode:     32826-2399
+Country:     USA
+Phone:       407-281-3322
+FAX:         407-281-5014
+eaddress:    harry.morehead@swpc.siemens.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Original Equipment Manufacturer/Distributor
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sun Apr 18 16:36:47 1999 from 206.163.128.119
+
+Unique ID:   0361361426934
+FirstName:   William 
+Initial:     D
+LastName:    Riley
+NameTag:     Bill Riley
+Title:       Chief, Technology Transfer
+Company:     USDOE Albany Research Center
+Office:      Office of Technology Transfer
+StreetAdd1:  1450 Queen Avenue SW
+StreetAdd2:  Building 33
+StreetAdd3:  
+City:        Allbany
+State:       Oregon
+ZipCode:     97321
+Country:     USA
+Phone:       (541) 967 5851
+FAX:         (541) 967 5991
+eaddress:    riley@alrc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Other
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Tue Apr 20 18:38:05 1999 from 205.188.197.38
+
+Unique ID:   246775549546
+FirstName:   PEDRO
+Initial:     
+LastName:    CONTRERAS
+NameTag:     CONTRERAS
+Title:       PRESIDENT
+Company:     CLEAN COAL ANTHRACITE 1st.
+Office:      27758
+StreetAdd1:  Santa Margarita Pkwy - 406
+StreetAdd2:  
+StreetAdd3:  
+City:        Mission Viejo
+State:       CA
+ZipCode:     92691
+Country:     USA
+Phone:       949/583 9070
+FAX:         949/583 9070
+eaddress:    aedaeng1@aol.com
+Meal:        0
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Coal Company
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Apr 22 10:29:16 1999 from 192.54.250.131
+
+Unique ID:   0031430973560
+FirstName:   William H.
+Initial:     
+LastName:    Day
+NameTag:     Bill Day
+Title:       Mgr, Advanced Industrial Programs
+Company:     Pratt & Whitney
+Office:      
+StreetAdd1:  400 Main Street M/S 165-22
+StreetAdd2:  
+StreetAdd3:  
+City:        East Hartford
+State:       CT
+ZipCode:     06108
+Country:     USA
+Phone:       860-565-0086
+FAX:         860-565-0213
+eaddress:    datw@pweh.com
+Meal:        
+recep_6_21:  NO
+lunch_6_22:  NO
+lunch_6_23:  NO
+tour_6_23:   NO
+recep_6_23:  YES
+lunch_6_24:  NO
+affiliation: Original Equipment Manufacturer/Distributor
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sun Apr 25 09:50:39 1999 from 204.171.67.242
+
+Unique ID:   0441939040521
+FirstName:   Yee 
+Initial:     
+LastName:    Soong
+NameTag:     Yee Soong
+Title:       Team Leader
+Company:     U.S. Department of Energy
+Office:      Federal Energy Technology Center
+StreetAdd1:  P.O. Box 10940
+StreetAdd2:  
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236
+Country:     USA
+Phone:       412-892-4925
+FAX:         412-892-4158
+eaddress:    soong@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sun Apr 25 17:57:21 1999 from 203.162.3.234
+
+Unique ID:   0341905768311
+FirstName:   Quang
+Initial:     
+LastName:    Nguyen Chi
+NameTag:     
+Title:       President
+Company:     IT&E Inc.-VINACOAL
+Office:      Environment
+StreetAdd1:  108 Leduan Street
+StreetAdd2:  
+StreetAdd3:  
+City:        Hanoi
+State:       Hanoi
+ZipCode:     84
+Country:     Vietnam
+Phone:       8445181102
+FAX:         8445181101
+eaddress:    ite@hn.vnn.vn
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Environmental Organization
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon Apr 26 17:01:34 1999 from 202.46.246.6
+
+Unique ID:   049328718862
+FirstName:   Taufik
+Initial:     
+LastName:    Sasstrawinata
+NameTag:     Taufik Sastra
+Title:       Head of Fuel and Combustion Group
+Company:     Energy Technology Laboratory (LSDE)
+Office:      Agency for the Assessment and Application of Technology (BPPT)
+StreetAdd1:  PUSPIPTEK
+StreetAdd2:  
+StreetAdd3:  
+City:        Serpong
+State:       Tangerang
+ZipCode:     15314
+Country:     INDONESIA
+Phone:       62 21 7560562 ext. 1157
+FAX:         62 21 7560904
+eaddress:    tsast@bit.net.id
+Meal:        no ham and pork
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon Apr 26 17:03:38 1999 from 202.46.246.6
+
+Unique ID:   117328718884
+FirstName:   Rachmat
+Initial:     
+LastName:    Mulyadi
+NameTag:     Dr. Rachmat Mulyadi
+Title:       Head of Energy Technology Laboratory (LSDE)
+Company:     Energy Technology Laboratory (LSDE)
+Office:      Agency for the Assessment and Application of Technology (BPPT)
+StreetAdd1:  PUSPIPTEK
+StreetAdd2:  
+StreetAdd3:  
+City:        Serpong
+State:       Tangerang
+ZipCode:     15314
+Country:     INDONESIA
+Phone:       62 21 7560550
+FAX:         62 21 7560904
+eaddress:    tsast@bit.net.id
+Meal:        no ham and pork
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Apr 29 02:44:27 1999 from 138.222.116.132
+
+Unique ID:   0931434015748
+FirstName:   Marcel
+Initial:     
+LastName:    Mueller
+NameTag:     Marcel Mueller
+Title:       Project Manager
+Company:     ABB Power Generation Ltd.
+Office:      KWBM1 - Product Manager
+StreetAdd1:  Haselstrasse 5
+StreetAdd2:  
+StreetAdd3:  
+City:        Baden
+State:       Argau
+ZipCode:     5401
+Country:     Switzerland
+Phone:       0041 79 205 6101
+FAX:         0041 56 205 3179
+eaddress:    elena.eberts@ABB mail.DEMSU.com
+Meal:        
+recep_6_21:  NO
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sun May 02 12:09:56 1999 from 204.171.67.242
+
+Unique ID:   2511939683050
+FirstName:   Robert
+Initial:     M
+LastName:    Kornosky
+NameTag:     Bob
+Title:       Project Manager
+Company:     U.S. Department of Energy
+Office:      Federal Energy Technology Center
+StreetAdd1:  P.O. Box 10940
+StreetAdd2:  
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236-0940
+Country:     United States
+Phone:       (412) 892-4521
+FAX:         (412) 892-4775
+eaddress:    kornosky@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon May 03 11:11:29 1999 from 12.5.202.15
+
+Unique ID:   175495204633
+FirstName:   E.J. (Chip)
+Initial:     
+LastName:    Troxclair
+NameTag:     Chip Troxclair
+Title:       Director Business Development
+Company:     Dynegy Inc
+Office:      Houston
+StreetAdd1:  1000 Louisiana
+StreetAdd2:  Suite 5800
+StreetAdd3:  
+City:        Houston
+State:       Texas
+ZipCode:     77002
+Country:     USA
+Phone:       713-767-8678
+FAX:         713-767-8515
+eaddress:    ejtr@dynegy.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Independent Power Producer
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon May 03 11:20:29 1999 from 12.5.202.15
+
+Unique ID:   239495204778
+FirstName:   Phil
+Initial:     
+LastName:    Amick
+NameTag:     Phil Amick
+Title:       Director Business Development
+Company:     Dynegy Inc
+Office:      Hosuton
+StreetAdd1:  1000 Louisiana
+StreetAdd2:  Suite 5800
+StreetAdd3:  
+City:        Houston
+State:       Texas
+ZipCode:     77002
+Country:     USA
+Phone:       713-767-8667
+FAX:         713-767-8515
+eaddress:    pram@dynegy.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Independent Power Producer
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Tue May 04 11:05:18 1999 from 12.5.202.15
+
+Unique ID:   159495227642
+FirstName:   Steve
+Initial:     
+LastName:    Douglas
+NameTag:     Steve Douglas
+Title:       Manager, Plant Services
+Company:     Dynegy Power Corporation
+Office:      Wabash River Gasification Plant
+StreetAdd1:  444 W. Sandford Avenue
+StreetAdd2:  
+StreetAdd3:  
+City:        W. Terre Haute
+State:       Indiana
+ZipCode:     47885-8200
+Country:     USA
+Phone:       812-535-6052
+FAX:         812-535-6100
+eaddress:    sldo@dynegy.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Independent Power Producer
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Tue May 04 11:13:48 1999 from 12.5.202.15
+
+Unique ID:   063495227779
+FirstName:   E.J.
+Initial:     
+LastName:    Troxclair
+NameTag:     Chip Troxclair
+Title:       Vice President Gasification
+Company:     Dynegy Inc
+Office:      Houston
+StreetAdd1:  1000 Louisiana
+StreetAdd2:  Suite 5800
+StreetAdd3:  
+City:        Houston
+State:       Texas
+ZipCode:     77002
+Country:     USA
+Phone:       713-767-8678
+FAX:         713-767-8515
+eaddress:    ejtr@dynegy.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Independent Power Producer
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu May 06 08:42:44 1999 from 12.5.202.15
+
+Unique ID:   191495271568
+FirstName:   Richard
+Initial:     
+LastName:    Payonk
+NameTag:     Richard Payonk
+Title:       Plant Manager
+Company:     Dynegy Inc
+Office:      Wabash River Gasification Plant
+StreetAdd1:  444 W. Sandford Ave.
+StreetAdd2:  
+StreetAdd3:  
+City:        W. Terre Haute
+State:       Indiana
+ZipCode:     47885
+Country:     USA
+Phone:       812-535-6062
+FAX:         812-535-6100
+eaddress:    rjpa@dynegy.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Independent Power Producer
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu May 06 16:27:21 1999 from 164.89.253.3
+
+Unique ID:   133248964858
+FirstName:   Barry
+Initial:     T
+LastName:    Street
+NameTag:     Barry
+Title:       Chemical Engineer
+Company:     Eastman Chemical Co.
+Office:      B-348
+StreetAdd1:  201 S. Wilcox Dr.
+StreetAdd2:  
+StreetAdd3:  
+City:        Kingsport
+State:       TN
+ZipCode:     37662
+Country:     USA
+Phone:       423-229-6062
+FAX:         423-224-7268
+eaddress:    btstreet@eastman.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  NO
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Other
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu May 13 12:20:10 1999 from 205.147.228.2
+
+Unique ID:   215212067556
+FirstName:   VanEric
+Initial:     E.
+LastName:    Stein
+NameTag:     
+Title:       Principal Development Engineer
+Company:     Air Products & Chemicals, Inc.
+Office:      Iron Run
+StreetAdd1:  7201 Hamilton Blvd.
+StreetAdd2:  
+StreetAdd3:  
+City:        Allentown
+State:       PA
+ZipCode:     18195
+Country:     USA
+Phone:       610-481-3549
+FAX:         610-481-4566
+eaddress:    steinve@apci.com
+Meal:        
+recep_6_21:  NO
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: R&D Organization
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon May 17 09:52:32 1999 from 204.171.67.242
+
+Unique ID:   0951941031799
+FirstName:   Gary 
+Initial:     J
+LastName:    Stiegel
+NameTag:     Gary J. Stiegel
+Title:       Product Manager, IGCC
+Company:     U.S. Dept. of Energy
+Office:      FETC
+StreetAdd1:  P.O. Box 10940
+StreetAdd2:  
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236
+Country:     USA
+Phone:       412-892-4499
+FAX:         412-892-4822
+eaddress:    stiegel@fetc.doe.gov
+Meal:        None
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon May 17 10:49:28 1999 from 161.186.93.44
+
+Unique ID:   231830643120
+FirstName:   Mark
+Initial:     D
+LastName:    Weiss
+NameTag:     Mark
+Title:       Manager Generation Environment and Safety
+Company:     PEPCO
+Office:      rm730
+StreetAdd1:  1900 Pa Ave NW
+StreetAdd2:  
+StreetAdd3:  
+City:        Washington 
+State:       DC
+ZipCode:     20068
+Country:     USA
+Phone:       2028722431
+FAX:         
+eaddress:    mdweiss@pepco.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Investor Owned Utility
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon May 17 12:15:52 1999 from 163.191.39.2
+
+Unique ID:   039183079850
+FirstName:   Gary
+Initial:     R.
+LastName:    Philo
+NameTag:     Gary Philo
+Title:       Coal Demonstration Program Manager
+Company:     Illinois Department of Commerce and Community Affairs
+Office:      Office of Coal Development and Marketing
+StreetAdd1:  325 West Adams Street, 3rd Floor
+StreetAdd2:  
+StreetAdd3:  
+City:        Springfield
+State:       IL
+ZipCode:     62704
+Country:     USA
+Phone:       217/782-6370
+FAX:         217/785-2618
+eaddress:    gphilo@commerce.state.il.us
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon May 17 12:20:18 1999 from 163.191.39.2
+
+Unique ID:   197183079876
+FirstName:   Paul
+Initial:     
+LastName:    Pierre-Louis
+NameTag:     Paul Pierre-Louis
+Title:       Project Engineer
+Company:     Illinois Department of Commerce and Community Affairs
+Office:      Office of Coal Development and Marketing
+StreetAdd1:  100 West Randoplh Street, Suite 3-400
+StreetAdd2:  
+StreetAdd3:  
+City:        Chicago
+State:       IL
+ZipCode:     60601
+Country:     USA
+Phone:       312/814-3630
+FAX:         312/814-3891
+eaddress:    ppierrel@commerce.state.il.us
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon May 17 14:02:34 1999 from 204.171.67.242
+
+Unique ID:   2371941047506
+FirstName:   Joseph, B.
+Initial:     
+LastName:    Renk III
+NameTag:     Joe Renk
+Title:       Project Manager
+Company:     U.S. Department of Energy
+Office:      FETC
+StreetAdd1:  P.O. Box 10940
+StreetAdd2:  
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236-0940
+Country:     USA
+Phone:       412-892-6249
+FAX:         412-892-4775
+eaddress:    renk@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Tue May 18 03:43:51 1999 from 164.36.141.145
+
+Unique ID:   1121504565384
+FirstName:   Alan
+Initial:     J
+LastName:    Heyes
+NameTag:     Alan
+Title:       Deputy Director, Energy Technologies Directorate
+Company:     UK Department of Trade and Industry
+Office:      Energy Technologies Directorate, Room 1125
+StreetAdd1:  1 Victoria Street
+StreetAdd2:  
+StreetAdd3:  
+City:        London
+State:       Middlesex
+ZipCode:     SW1H 0ET
+Country:     United Kingdom
+Phone:       +44 (0) 171 215 2666 
+FAX:         +44 (0) 171 828 7969
+eaddress:    alan.heyes@hend.dti.gov.uk
+Meal:        None - just good, wholesome US food
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Tue May 18 13:20:56 1999 from 205.147.228.2
+
+Unique ID:   031212117402
+FirstName:   Bharat
+Initial:     L
+LastName:    Bhatt
+NameTag:     Bharat
+Title:       Lead Process Engineer
+Company:     Air Products and Chemicals
+Office:      Mail Code A12A3
+StreetAdd1:  7201 Hamilton Blvd
+StreetAdd2:  
+StreetAdd3:  
+City:        Allentown
+State:       PA
+ZipCode:     18195-1501
+Country:     U. S. A.
+Phone:       (610) 481-5995
+FAX:         (610) 481-2177
+eaddress:    bhattbl@apci.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed May 19 08:40:22 1999 from 147.72.230.180
+
+Unique ID:   1151677436555
+FirstName:   James 
+Initial:     A
+LastName:    Ciesar
+NameTag:     Jim Ciesar
+Title:       Program Manager
+Company:     Siemens Westinghouse Power Corp
+Office:      
+StreetAdd1:  1310 Beulah Rd
+StreetAdd2:  
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15235
+Country:     USA
+Phone:       4122562564
+FAX:         4122562121
+eaddress:    james.ciesar@swpc.siemens.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Original Equipment Manufacturer/Distributor
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed May 19 12:29:37 1999 from 164.89.253.3
+
+Unique ID:   181249113885
+FirstName:   Dennis
+Initial:     R.
+LastName:    Knisley
+NameTag:     Dennis
+Title:       Senior Environmental Representative
+Company:     Eastman Chemical Company
+Office:      Tennessee Eastman Division
+StreetAdd1:  P. O. Box 431, B-280-W
+StreetAdd2:  
+StreetAdd3:  
+City:        Kingsport
+State:       TN
+ZipCode:     37662-5280
+Country:     USA
+Phone:       (423) 229-5603
+FAX:         (423) 224-7213
+eaddress:    dknisley@eastman.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Other
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed May 26 22:31:54 1999 from 133.145.224.6
+
+Unique ID:   151327180284
+FirstName:   Fumihiko
+Initial:     
+LastName:    Kiso
+NameTag:     
+Title:       Researcher
+Company:     Hitachi, Ltd
+Office:      COTEC center
+StreetAdd1:  832-2 Horiguchi 
+StreetAdd2:  
+StreetAdd3:  
+City:        Hitachinaka
+State:       Ibaraki
+ZipCode:     312-0034
+Country:     Japan
+Phone:       +81 29 276 5622
+FAX:         +81 29 276 5784
+eaddress:    kiso@erl.hitachi.co.jp
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Original Equipment Manufacturer/Distributor
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu May 27 16:45:42 1999 from 204.171.67.242
+
+Unique ID:   0331941962139
+FirstName:   Scott
+Initial:     M
+LastName:    Smouse
+NameTag:     Scott Smouse
+Title:       Sr. Management & Technical Advisor, International
+Company:     U.S. Dept. of Energy
+Office:      Federal Energy Technology Center
+StreetAdd1:  P.O. Box 10940
+StreetAdd2:  M/S 922-178C
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236-0940
+Country:     USA
+Phone:       412-892-5725
+FAX:         412-892-4561
+eaddress:    smouse@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  NO
+lunch_6_24:  NO
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Fri May 28 11:49:52 1999 from 198.80.29.2
+
+Unique ID:   191181433440
+FirstName:   Clint 
+Initial:     A
+LastName:    Vanderford
+NameTag:     Clint
+Title:       Sr. Engineer
+Company:     Central And South West Services
+Office:      Fossil Generation Technical Services
+StreetAdd1:  1616 Woodall Rodgers Fwy
+StreetAdd2:  PO Box 660164 
+StreetAdd3:  
+City:        Dallas
+State:       TX
+ZipCode:     75202
+Country:     usa
+Phone:       214/777-1108
+FAX:         214/981-9747
+eaddress:    cvanderford@csw.com
+Meal:        
+             This is not a meal request, just a reminder that my payment won't make it by June 7th, but some time afterward...
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Investor Owned Utility
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Tue Jun 01 15:42:04 1999 from 164.89.253.3
+
+Unique ID:   007249266288
+FirstName:   Erin
+Initial:     M
+LastName:    McLoughlin
+NameTag:     Erin McLoughlin
+Title:       Chemical Engineer
+Company:     Eastman Chemical Company
+Office:      Process Engineering
+StreetAdd1:  P.O. Box 511, B-54D
+StreetAdd2:  
+StreetAdd3:  
+City:        Kingsport
+State:       TN
+ZipCode:     37662-5054
+Country:     USA
+Phone:       (423) 229 - 2475
+FAX:         (423) 224 - 0453
+eaddress:    erin@eastman.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jun 02 12:09:17 1999 from 132.225.5.10
+
+Unique ID:   188395104238
+FirstName:   Ivor
+Initial:     F
+LastName:    DA CUNHA
+NameTag:     Ivor DA CUNHA
+Title:       Manager, Market Development
+Company:     AECL
+Office:      Marketing & Sales Branch
+StreetAdd1:  2251 Speakman Drive SP2F2
+StreetAdd2:  
+StreetAdd3:  
+City:        Mississauga
+State:       Ontario
+ZipCode:     L5B 1K2
+Country:     Canada
+Phone:       905 823-9040 
+FAX:         905 823-1290
+eaddress:    dacunhai@aecl.ca
+Meal:        No special meal requirements.  I trust that this information supplied is for the sole purposes of conference registration (i.e.it won't be used for unsolicited mail in the future) .The check for registration fee is being printed by my company and this will be sent to you by June 7. Thanks.
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jun 03 11:26:09 1999 from 12.77.3.10
+
+Unique ID:   069394923379
+FirstName:   Pablo
+Initial:     
+LastName:    Memba
+NameTag:     Pablo Memba
+Title:       President
+Company:     Memba Consultants, Inc.
+Office:      Consultant
+StreetAdd1:  3109 Abbotts Oak Way
+StreetAdd2:  
+StreetAdd3:  
+City:        Duluth
+State:       Georgia
+ZipCode:     30097
+Country:     USA
+Phone:       770-814-2770
+FAX:         770-623-5561
+eaddress:    pablo-memba@worldnet.att.net
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Consultant
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jun 03 11:27:21 1999 from 12.77.3.10
+
+Unique ID:   245394923394
+FirstName:   Pablo
+Initial:     
+LastName:    Memba
+NameTag:     Pablo Memba
+Title:       President
+Company:     Memba Consultants, Inc.
+Office:      Consultant
+StreetAdd1:  3109 Abbotts Oak Way
+StreetAdd2:  
+StreetAdd3:  
+City:        Duluth
+State:       Georgia
+ZipCode:     30097
+Country:     USA
+Phone:       770-814-2770
+FAX:         770-623-5561
+eaddress:    pablo-memba@worldnet.att.net
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Consultant
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sat Jun 05 23:59:17 1999 from 210.133.193.3
+
+Unique ID:   003241904418
+FirstName:   TETSUO
+Initial:     T.S
+LastName:    SHIKATA
+NameTag:     TETSUO SHIKATA
+Title:       GENERAL MANAGER
+Company:     BABCOCK HITACHI KK
+Office:      WTC
+StreetAdd1:  2-4-1
+StreetAdd2:  HAMAMATSUCHO
+StreetAdd3:  
+City:        TOKYO
+State:       JAPAN
+ZipCode:     105-6107
+Country:     JAPAN
+Phone:       81-3-5400-2413
+FAX:         81-3-54002461
+eaddress:    sikata@tho.bhk.co.jp
+Meal:        
+recep_6_21:  NO
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Original Equipment Manufacturer/Distributor
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sun Jun 06 18:35:04 1999 from 152.163.207.61
+
+Unique ID:   199981370186
+FirstName:   Dennis
+Initial:     C.
+LastName:    Cossey
+NameTag:     Dennis
+Title:       CEO
+Company:     ThermoEnergy Corporation
+Office:      1300 Tower Building
+StreetAdd1:  323 Center Street
+StreetAdd2:  
+StreetAdd3:  
+City:        Little Rock
+State:       Arkansas
+ZipCode:     72201
+Country:     USA
+Phone:       (501) 376-6477
+FAX:         (501) 244-9203
+eaddress:    dennis1tec@aol.com
+Meal:        None
+recep_6_21:  NO
+lunch_6_22:  NO
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon Jun 07 10:15:30 1999 from 199.88.22.5
+
+Unique ID:   155281550427
+FirstName:   Robert A.
+Initial:     
+LastName:    Stokes
+NameTag:     Bob
+Title:       Sr. Vice President
+Company:     Institute of Gas Technology
+Office:      Chicago
+StreetAdd1:  1700 S. Mount Prospect Road
+StreetAdd2:  
+StreetAdd3:  
+City:        Des Plaines
+State:       IL
+ZipCode:     60018-1804
+Country:     USA
+Phone:       847-768-0802
+FAX:         
+eaddress:    rstokes1@aol.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: R&D Organization
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon Jun 07 12:12:21 1999 from 199.88.22.5
+
+Unique ID:   197281551489
+FirstName:   Vann
+Initial:     
+LastName:    Bush
+NameTag:     Vann
+Title:       
+Company:     Southern Research Institute
+Office:      Environment & Energy Division
+StreetAdd1:  P. O. Box 55305
+StreetAdd2:  
+StreetAdd3:  
+City:        Birmingham
+State:       AL
+ZipCode:     35255
+Country:     USA
+Phone:       205-581-2269
+FAX:         205-581-2448
+eaddress:    bush@sri.org
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: R&D Organization
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Tue Jun 08 15:28:49 1999 from 198.124.130.98
+
+Unique ID:   0281239016188
+FirstName:   Fred
+Initial:     M.
+LastName:    Glaser
+NameTag:     Fred
+Title:       Deputy Director
+Company:     U.S. DOE
+Office:      Ofc of Advanced Research
+StreetAdd1:  19901 Germantown Rd
+StreetAdd2:  
+StreetAdd3:  
+City:        Germantown
+State:       MD
+ZipCode:     20874
+Country:     U.S.A.
+Phone:       301-903-2786
+FAX:         301-903-0243
+eaddress:    fred.glaser@hq.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jun 09 11:49:37 1999 from 153.34.146.193
+
+Unique ID:   0941736898888
+FirstName:   Harry H
+Initial:     
+LastName:    Graves
+NameTag:     Harry H Graves
+Title:       President & CEO
+Company:     Global Energy Inc.
+Office:      Headquarters
+StreetAdd1:  Suite 2000, 312 Walnut St.
+StreetAdd2:  
+StreetAdd3:  
+City:        Cincinnati
+State:       Ohio
+ZipCode:     45202
+Country:     USA
+Phone:       513 621 0077
+FAX:         513 621 5947
+eaddress:    hhg@globalenergyinc.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Independent Power Producer
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jun 09 16:16:54 1999 from 134.20.204.125
+
+Unique ID:   1911400211966
+FirstName:   Robert 
+Initial:     A.
+LastName:    Carrington
+NameTag:     Bob
+Title:       Project Manager
+Company:     INEEL
+Office:      Lockheed Martin Idaho
+StreetAdd1:  2525 North Fremont
+StreetAdd2:  MS 3710
+StreetAdd3:  
+City:        Idaho Falls
+State:       Idaho
+ZipCode:     83415-3710
+Country:     U.S.
+Phone:       (208) 526-5041
+FAX:         (208) 526-5142
+eaddress:    carrra@inel.gov
+Meal:        Diabetic Meals
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  NO
+lunch_6_24:  YES
+affiliation: R&D Organization
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jun 10 15:54:53 1999 from 199.249.243.1
+
+Unique ID:   236174474783
+FirstName:   Joseph
+Initial:     P
+LastName:    Clevenger
+NameTag:     Joe
+Title:       Instructional Technologist
+Company:     EG&G
+Office:      Outreach
+StreetAdd1:  3610 Collins Ferry Dr
+StreetAdd2:  Mail Stop K07
+StreetAdd3:  
+City:        Morgantown
+State:       WV
+ZipCode:     26505
+Country:     US
+Phone:       (304)285-4187
+FAX:         (304)285-4187
+eaddress:    jcleve@fetc.doe.gov
+Meal:        Vegetarian
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Fri Jun 11 08:50:23 1999 from 204.171.67.242
+
+Unique ID:   0761943288104
+FirstName:   David J
+Initial:     
+LastName:    Wildman
+NameTag:     
+Title:       Physical Scientist
+Company:     Federal Energy Technology Center
+Office:      Scinece and Technology
+StreetAdd1:  Po Box 10940
+StreetAdd2:  
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15102
+Country:     USA
+Phone:       412-892-4913
+FAX:         412-892-4152
+eaddress:    wildman@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Fri Jun 11 12:14:01 1999 from 157.182.80.98
+
+Unique ID:   1461237957757
+FirstName:   John L.
+Initial:     
+LastName:    Loth
+NameTag:     John L. Loth
+Title:       Professor MAE
+Company:     West Virginia University
+Office:      MAE
+StreetAdd1:  Box 6106
+StreetAdd2:  
+StreetAdd3:  
+City:        Morgantown
+State:       WV
+ZipCode:     26506
+Country:     USA
+Phone:       (304) 293-4111 ext 2343
+FAX:         (304) 293-8823
+eaddress:    
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Fri Jun 11 12:14:36 1999 from 157.182.80.98
+
+Unique ID:   0991237957780
+FirstName:   John L.
+Initial:     
+LastName:    Loth
+NameTag:     John L. Loth
+Title:       Professor MAE
+Company:     West Virginia University
+Office:      MAE
+StreetAdd1:  Box 6106
+StreetAdd2:  
+StreetAdd3:  
+City:        Morgantown
+State:       WV
+ZipCode:     26506
+Country:     USA
+Phone:       (304) 293-4111 ext 2343
+FAX:         (304) 293-8823
+eaddress:    jloth@wvu.edu
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Fri Jun 11 12:16:05 1999 from 157.182.80.98
+
+Unique ID:   0381237957839
+FirstName:   John L.
+Initial:     
+LastName:    Loth
+NameTag:     John L. Loth
+Title:       Professor MAE
+Company:     West Virginia University
+Office:      MAE
+StreetAdd1:  Box 6106
+StreetAdd2:  
+StreetAdd3:  
+City:        Morgantown
+State:       WV
+ZipCode:     26506
+Country:     USA
+Phone:       (304) 293-4111 ext 2343
+FAX:         (304) 293-8823
+eaddress:    jloth@wvu.edu
+Meal:        
+recep_6_21:  NO
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  NO
+affiliation: Educational Organization
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Fri Jun 11 14:28:56 1999 from 157.182.80.98
+
+Unique ID:   2471237963149
+FirstName:   John L.
+Initial:     
+LastName:    Loth
+NameTag:     John L. Loth
+Title:       Professor MAE
+Company:     West Virginia University
+Office:      MAE
+StreetAdd1:  Box 6106
+StreetAdd2:  
+StreetAdd3:  
+City:        Morgantown
+State:       WV
+ZipCode:     26506
+Country:     USA
+Phone:       (304) 293-4111 ext 2343
+FAX:         (304) 293-8823
+eaddress:    jloth@wvu.edu
+Meal:        
+recep_6_21:  NO
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  NO
+affiliation: Educational Organization
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Fri Jun 11 14:36:25 1999 from 157.182.80.98
+
+Unique ID:   1781237963449
+FirstName:   John L.
+Initial:     
+LastName:    Loth
+NameTag:     John L. Loth
+Title:       Professor MAE
+Company:     West Virginia University
+Office:      MAE
+StreetAdd1:  Box 6106
+StreetAdd2:  
+StreetAdd3:  
+City:        Morgantown
+State:       WV
+ZipCode:     26506
+Country:     USA
+Phone:       (304) 293-4111 ext 2343
+FAX:         (304) 293-8823
+eaddress:    jloth@wvu.edu
+Meal:        
+recep_6_21:  NO
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  NO
+affiliation: Educational Organization
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Sun Jun 13 15:56:40 1999 from 128.219.49.130
+
+Unique ID:   1111424739777
+FirstName:   James
+Initial:     W
+LastName:    Lee
+NameTag:     James Weifu Lee
+Title:       Staff Scientist
+Company:     Oak Ridge National Laboratory
+Office:      4500N, A16, MS-6194
+StreetAdd1:  Bethel Valley Road
+StreetAdd2:  
+StreetAdd3:  
+City:        Oak Ridge
+State:       TN
+ZipCode:     37831-6194
+Country:     USA
+Phone:       423-574-1208
+FAX:         423-574-1275
+eaddress:    Leejw@ornl.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: R&D Organization
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon Jun 14 11:30:38 1999 from 204.171.67.242
+
+Unique ID:   1531943569206
+FirstName:   Kimberly
+Initial:     A.
+LastName:    Yavorsky
+NameTag:     Kim Yavorsky
+Title:       FETC Conference Coordinator
+Company:     U.S. Department of Energy
+Office:      Federal Energy Technology Center
+StreetAdd1:  626 Cochrans Mill Road
+StreetAdd2:  P. O. Box 10940
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236
+Country:     USA
+Phone:       412/892-6244
+FAX:         412/892-6195
+eaddress:    yavorsky@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jun 16 02:41:46 1999 from 202.248.67.131
+
+Unique ID:   2331430749306
+FirstName:   Kazuaki
+Initial:     K
+LastName:    Ota
+NameTag:     K.Ota
+Title:       Assistant Manager
+Company:     Mitsubishi Materials Corp.
+Office:      Advanced Systems Center
+StreetAdd1:  1-3-25
+StreetAdd2:  Koishikawa
+StreetAdd3:  Bunkyo-ku
+City:        Tokyo
+State:       Tokyo
+ZipCode:     112
+Country:     Japan
+Phone:       81-3-5800-9351
+FAX:         81-3-5800-9376
+eaddress:    ota@mmc.co.jp
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jun 16 02:45:52 1999 from 202.248.67.131
+
+Unique ID:   0311430749495
+FirstName:   Hiroshi
+Initial:     H
+LastName:    Tanaka
+NameTag:     H.Tanaka
+Title:       General Manager
+Company:     Mitsubishi Materials Corp.
+Office:      Advanced Systems Center
+StreetAdd1:  1-3-25
+StreetAdd2:  Koishikawa
+StreetAdd3:  Bunkyo-ku
+City:        Tokyo
+State:       Tokyo
+ZipCode:     112
+Country:     Japan
+Phone:       81-3-5800-9351
+FAX:         81-3-5800-9376
+eaddress:    htanaka@mmc.co.jp
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jun 16 11:30:53 1999 from 38.27.179.56
+
+Unique ID:   071940341841
+FirstName:   Scott A.
+Initial:     
+LastName:    Vierstra
+NameTag:     Scott A. Vierstra
+Title:       Consultant
+Company:     SAVvy Engineering
+Office:       
+StreetAdd1:  3195 Mason Road
+StreetAdd2:  
+StreetAdd3:  
+City:        Canal Winchester
+State:       OH
+ZipCode:     43110
+Country:     US
+Phone:       614-837-5638
+FAX:         614-837-7809
+eaddress:    savierstra@savvyeng.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Consultant
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jun 16 18:34:22 1999 from 205.241.213.18
+
+Unique ID:   205541991774
+FirstName:   David
+Initial:     D
+LastName:    Massey
+NameTag:     David
+Title:       Editor
+Company:     Coal Outlook
+Office:      FT Energy USA
+StreetAdd1:  800 North Fourth Ave.
+StreetAdd2:  
+StreetAdd3:  
+City:        Knoxville
+State:       TN
+ZipCode:     37917
+Country:     USA
+Phone:       423-546-5089
+FAX:         423-546-0917
+eaddress:    dmassey@ftenergyusa.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  NO
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  NO
+lunch_6_24:  YES
+affiliation: Other
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jun 16 18:34:33 1999 from 205.241.213.18
+
+Unique ID:   072541991777
+FirstName:   David
+Initial:     D
+LastName:    Massey
+NameTag:     David
+Title:       Editor
+Company:     Coal Outlook
+Office:      FT Energy USA
+StreetAdd1:  800 North Fourth Ave.
+StreetAdd2:  
+StreetAdd3:  
+City:        Knoxville
+State:       TN
+ZipCode:     37917
+Country:     USA
+Phone:       423-546-5089
+FAX:         423-546-0917
+eaddress:    dmassey@ftenergyusa.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  NO
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  NO
+lunch_6_24:  YES
+affiliation: Other
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jun 16 18:35:10 1999 from 205.241.213.18
+
+Unique ID:   253541991788
+FirstName:   David
+Initial:     D
+LastName:    Massey
+NameTag:     David
+Title:       Editor
+Company:     Coal Outlook
+Office:      FT Energy USA
+StreetAdd1:  800 North Fourth Ave.
+StreetAdd2:  
+StreetAdd3:  
+City:        Knoxville
+State:       TN
+ZipCode:     37917
+Country:     USA
+Phone:       423-546-5089
+FAX:         423-546-0917
+eaddress:    dmassey@ftenergyusa.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  NO
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  NO
+lunch_6_24:  YES
+affiliation: Other
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Jun 16 18:40:35 1999 from 205.241.213.18
+
+Unique ID:   210541991882
+FirstName:   David
+Initial:     D
+LastName:    Massey
+NameTag:     David
+Title:       Editor
+Company:     Coal Outlook
+Office:      FT Energy USA
+StreetAdd1:  800 North Fourth Avenue
+StreetAdd2:  
+StreetAdd3:  
+City:        Knoxville
+State:       TN
+ZipCode:     37917
+Country:     USA
+Phone:       423-546-5089
+FAX:         423-546-0917
+eaddress:    dmassey@ftenergyusa.com
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  NO
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  NO
+lunch_6_24:  YES
+affiliation: Other
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jun 17 08:39:18 1999 from 128.219.80.204
+
+Unique ID:   0591785107783
+FirstName:   Ralph
+Initial:     G
+LastName:    Gilliland
+NameTag:     Gil Gilliland
+Title:       Associate Laboratory Director
+Company:     Oak Ridge National Laboratory
+Office:      Energy and Engineering Sciences
+StreetAdd1:  P. O. Box 2008
+StreetAdd2:  1 Bethel Valley Road
+StreetAdd3:  
+City:        Oak Ridge
+State:       TN
+ZipCode:     37831-6248
+Country:     USA
+Phone:       423-574-9920
+FAX:         423-576-6118
+eaddress:    gillilandrg@ornl.gov
+Meal:        Attending Tuesday, June 22 only.Faith Cline advised us to pay $200 registration.
+recep_6_21:  NO
+lunch_6_22:  YES
+lunch_6_23:  NO
+tour_6_23:   NO
+recep_6_23:  NO
+lunch_6_24:  NO
+affiliation: R&D Organization
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jun 17 11:37:27 1999 from 204.171.67.242
+
+Unique ID:   1961943840643
+FirstName:   William
+Initial:     
+LastName:    O'Dowd
+NameTag:     Bill O'Dowd
+Title:       Chemical Engineer
+Company:     US DOE 
+Office:      FETC
+StreetAdd1:  PO Box 10940
+StreetAdd2:  
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236
+Country:     Allegheny
+Phone:       412-892-4778
+FAX:         412-892-6204
+eaddress:    odowd@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jun 17 12:16:52 1999 from 198.124.130.98
+
+Unique ID:   0991239527020
+FirstName:   Desvin
+Initial:     C
+LastName:    Gabbidon
+NameTag:     Desvin
+Title:       Intern
+Company:     Us Department of Energy
+Office:      Coal & Power Import & Export
+StreetAdd1:  19901 Germantown Road
+StreetAdd2:  
+StreetAdd3:  
+City:        Germantown
+State:       Maryland
+ZipCode:     20874
+Country:     United States
+Phone:       301-903-6833
+FAX:         301-903-1591
+eaddress:    Desvin.Gabbidon@hq.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jun 17 13:01:58 1999 from 204.171.67.242
+
+Unique ID:   0811943845944
+FirstName:   James
+Initial:     U
+LastName:    Watts
+NameTag:     Jim
+Title:       Project Manager
+Company:     U.S. DOE/FETC
+Office:      OPM
+StreetAdd1:  626 Cochran Mill Road
+StreetAdd2:  P.O. Box 10940
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236-0940
+Country:     USA
+Phone:       412-892-5991
+FAX:         412-892-4775
+eaddress:    watts@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jun 17 14:13:37 1999 from 204.171.67.242
+
+Unique ID:   0821943850439
+FirstName:   Mark C.
+Initial:     
+LastName:    Freeman
+NameTag:     Mark 
+Title:       Chemical Engineer 
+Company:     Federal Energy Technology Center
+Office:      Pittsburgh
+StreetAdd1:  P.O. Box 10940
+StreetAdd2:  Cochrans Mill Road
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236
+Country:     USA
+Phone:       (412) 892-6294
+FAX:         (412) 892-4152
+eaddress:    mfreeman@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jun 17 14:17:18 1999 from 4.19.6.62
+
+Unique ID:   095983551452
+FirstName:   Samuel
+Initial:     
+LastName:    Tam
+NameTag:     Sam Tam
+Title:       Program Manager
+Company:     Bechtel Corporation
+Office:      Bechtel Technology & Consulting
+StreetAdd1:  45 Fremont St
+StreetAdd2:  
+StreetAdd3:  
+City:        San Francisco
+State:       CA
+ZipCode:     94105
+Country:     USA
+Phone:       (415) 768-2742
+FAX:         (415) 768-2743
+eaddress:    SSTAM@BECHTEL.COM
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  NO
+lunch_6_24:  NO
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jun 17 14:23:32 1999 from 4.19.6.62
+
+Unique ID:   063983551650
+FirstName:   Samuel
+Initial:     
+LastName:    Tam
+NameTag:     Sam Tam
+Title:       Program Manager
+Company:     Bechtel Corporation
+Office:      Bechtel Technology & Consulting
+StreetAdd1:  45 Fremont St
+StreetAdd2:  
+StreetAdd3:  
+City:        San Francisco
+State:       CA
+ZipCode:     94105
+Country:     USA
+Phone:       (415) 768-2742
+FAX:         (415) 768-2743
+eaddress:    SSTAM@BECHTEL.COM
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   NO
+recep_6_23:  NO
+lunch_6_24:  NO
+affiliation: Engineering/Architect Firm 
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Thu Jun 17 15:10:27 1999 from 204.171.67.242
+
+Unique ID:   0081943854004
+FirstName:   Thomas
+Initial:     A.
+LastName:    Sarkus
+NameTag:     Tom Sarkus
+Title:       Division Director
+Company:     FETC/U.S. DOE
+Office:      Major Projects & Agreements Div.
+StreetAdd1:  626 Cochrans Mill Road
+StreetAdd2:  P.O. Box 10940
+StreetAdd3:  Mail Stop 922-342C
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236-0940
+Country:     U.S.A.
+Phone:       412-892-5981
+FAX:         412-892-4775
+eaddress:    sarkus@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Financial Institution
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Mon Jun 21 11:21:38 1999 from 204.171.67.242
+
+Unique ID:   0691944200937
+FirstName:   Gary 
+Initial:     E
+LastName:    Staats
+NameTag:     
+Title:       Project Manager
+Company:     DOE-FETC
+Office:      PM-60
+StreetAdd1:  P.O. Box 10940
+StreetAdd2:  
+StreetAdd3:  
+City:        Pittsburgh
+State:       PA
+ZipCode:     15236
+Country:     USA
+Phone:       412-892-5741
+FAX:         412-892-4775
+eaddress:    staats@fetc.doe.gov
+Meal:        
+recep_6_21:  YES
+lunch_6_22:  YES
+lunch_6_23:  YES
+tour_6_23:   YES
+recep_6_23:  YES
+lunch_6_24:  YES
+affiliation: Federal/State/Municipal Government
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Nov 10 20:14:06 1999 from 206.28.207.186
+
+Unique ID:  2391718499962
+FirstName:  edelente@enforme.com
+Initial:    
+LastName:   cdelente@enforme.com
+StreetAdd1: 
+City:       
+State:      
+ZipCode:    
+Country:    
+Phone:      
+Meal:       
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Nov 10 20:17:06 1999 from 206.28.207.186
+
+Unique ID:  1431718500126
+FirstName:  edelente@enforme.com
+Initial:    
+LastName:   cdelente@enforme.com
+StreetAdd1: 
+City:       
+State:      
+ZipCode:    
+Country:    
+Phone:      
+Meal:       
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Nov 10 20:17:21 1999 from 206.28.207.186
+
+Unique ID:  1351718500140
+FirstName:  edelente@enforme.com
+Initial:    
+LastName:   cdelente@enforme.com
+StreetAdd1: 
+City:       
+State:      
+ZipCode:    
+Country:    
+Phone:      
+Meal:       
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Nov 10 20:20:55 1999 from 206.28.207.186
+
+Unique ID:  0551718500335
+FirstName:  edelente@enforme.com
+Initial:    
+LastName:   cdelente@enforme.com
+StreetAdd1: 
+City:       
+State:      
+ZipCode:    
+Country:    
+Phone:      
+Meal:       
+
+Thank You for your registration submission. A conference manager will be contacting you within the next 5 business days.  Submitted at Wed Nov 10 20:21:44 1999 from 206.28.207.186
+
+Unique ID:  0631718500379
+FirstName:  edelente@enforme.com
+Initial:    
+LastName:   cdelente@enforme.com
+StreetAdd1: 
+City:       
+State:      
+ZipCode:    
+Country:    
+Phone:      
+Meal:       
+

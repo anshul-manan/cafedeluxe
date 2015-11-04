@@ -1,0 +1,33 @@
+
+You've been sent a Cafe Deluxe Menu from %LastName%
+
+Check it out by clicking here: <a href = "http://www.cafedeluxe.com"> Cafe Deluxe Menu</a>
+
+This form was submitted on %MF_DATE%
+The actual information entered on the form was:
+
+Unique ID: %MF_UNIQUE_ID%
+First Name:  %FirstName%
+Middle Initial:  %Initial%Last Name: %LastName%
+Name as Preferred on Name Tag: %NameTag%
+Job Title: %Title%
+Company: %Company%
+Office: %Office%
+Street Address: %StreetAdd1%
+Street Address 2: %StreetAdd2%
+Street Address 3: %StreetAdd3%
+City: %City%
+State or Province: %State%
+Postcode: %zipcode%
+Country: %Country%
+Voice Phone: %Phone%
+Fax: %fax%
+E-mail Address: %eaddress%
+Special Meal Requirements: %Meal%
+
+Reception on Monday, June 21: %recep_6_21%
+
+
+
+
+

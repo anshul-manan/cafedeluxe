@@ -1,0 +1,417 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebPageSecurity
+</name>
+</assembly>
+<members>
+<member name="M:Ventaur.Web.Security.RequestEvaluator.Evaluate(System.Web.HttpRequest,Ventaur.Web.Security.Configuration.SecureWebPageSettings)">
+	<summary>
+ Evaluates a given request against specified settings for the type of security action required
+ to fulfill the request properly.
+ </summary>
+	<param name="request">The request to evaluate.</param>
+	<param name="settings">The settings to evaluate against.</param>
+	<returns>A SecurityType value for the appropriate action.</returns>
+</member><member name="M:Ventaur.Web.Security.RequestEvaluator.Evaluate(System.Web.HttpRequest)">
+	<summary>
+ Evaluates a given request against configured settings for the type of security action required
+ to fulfill the request properly.
+ </summary>
+	<param name="request">The request to evaluate.</param>
+	<returns>A SecurityType value for the appropriate action.</returns>
+</member><member name="M:Ventaur.Web.Security.RequestEvaluator.RequestMatchesMode(System.Web.HttpRequest,Ventaur.Web.Security.Configuration.SecureWebPageMode)">
+	<summary>
+ Tests the given request to see if it matches the specified mode.
+ </summary>
+	<param name="request">A HttpRequest to test.</param>
+	<param name="mode">The SecureWebPageMode used in the test.</param>
+	<returns>
+		Returns true if the request matches the mode as follows:
+		<list type="disc">
+			<item>If mode is On.</item>
+			<item>If mode is set to RemoteOnly and the request is from a computer other than the server.</item>
+			<item>If mode is set to LocalOnly and the request is from the server.</item>
+		</list>
+	</returns>
+</member><member name="T:Ventaur.Web.Security.RequestEvaluator">
+	<summary>
+ Represents an evaluator for requests that 
+ </summary>
+</member><member name="F:Ventaur.Web.Security.Configuration.SecureWebPageMode.On">
+	<summary>
+ Indicates that web page security is on and all requests should be monitored.
+ </summary>
+</member><member name="F:Ventaur.Web.Security.Configuration.SecureWebPageMode.RemoteOnly">
+	<summary>
+ Only remote requests are to be monitored.
+ </summary>
+</member><member name="F:Ventaur.Web.Security.Configuration.SecureWebPageMode.LocalOnly">
+	<summary>
+ Only local requests are to be monitored.
+ </summary>
+</member><member name="F:Ventaur.Web.Security.Configuration.SecureWebPageMode.Off">
+	<summary>
+ Web page security is off and no monitoring should occur.
+ </summary>
+</member><member name="T:Ventaur.Web.Security.Configuration.SecureWebPageMode">
+	<summary>
+ The different modes supported for the &lt;secureWebPages&gt; configuration section.
+ </summary>
+</member><member name="F:Ventaur.Web.Security.Configuration.SecurityWarningBypassMode.AlwaysBypass">
+	<summary>
+ Always bypass security warnings when switching to an unencrypted page.
+ </summary>
+</member><member name="F:Ventaur.Web.Security.Configuration.SecurityWarningBypassMode.BypassWithQueryParam">
+	<summary>
+ Only bypass security warnings when switching to an unencrypted page if the proper query parameter is present.
+ </summary>
+</member><member name="F:Ventaur.Web.Security.Configuration.SecurityWarningBypassMode.NeverBypass">
+	<summary>
+ Never bypass security warnings when switching to an unencrypted page.
+ </summary>
+</member><member name="T:Ventaur.Web.Security.Configuration.SecurityWarningBypassMode">
+	<summary>
+ The different modes for bypassing security warnings.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageSettings.#ctor">
+	<summary>
+ Creates an instance of SecureWebPageSettings.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageSettings.BypassQueryParamName">
+	<summary>
+ Gets or sets the name of the query parameter that will indicate to the module to bypass
+ any security warning if WarningBypassMode = BypassWithQueryParam.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageSettings.EncryptedUri">
+	<summary>
+ Gets or sets the path to a URI for encrypted redirections, if any.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageSettings.MaintainPath">
+	<summary>
+ Gets or sets a flag indicating whether or not to maintain the current path when redirecting
+ to a different host.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageSettings.Mode">
+	<summary>
+ Gets or sets the mode indicating how the secure web page settings handled.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageSettings.Directories">
+	<summary>
+ Gets the collection of directory settings read from the configuration section.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageSettings.Files">
+	<summary>
+ Gets the collection of file settings read from the configuration section.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageSettings.UnencryptedUri">
+	<summary>
+ Gets or sets the path to a URI for unencrypted redirections, if any.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageSettings.WarningBypassMode">
+	<summary>
+ Gets or sets the bypass mode indicating whether or not to bypass security warnings
+ when switching to a unencrypted page.
+ </summary>
+</member><member name="T:Ventaur.Web.Security.Configuration.SecureWebPageSettings">
+	<summary>
+ Contains the settings of a secureWebPages configuration section.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.SSLHelper.#ctor">
+	<summary>
+ Prevent creating an instance of this class.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.SSLHelper.DetermineSecurePage(Ventaur.Web.Security.Configuration.SecureWebPageSettings,System.Boolean)">
+	<summary>
+ Determines the secure page that should be requested if a redirect occurs.
+ </summary>
+	<param name="settings">The SecureWebPageSettings to use in determining.</param>
+	<param name="ignoreCurrentProtocol">
+ A flag indicating whether or not to ingore the current protocol when determining.
+ </param>
+	<returns>A string containing the absolute URL of the secure page to redirect to.</returns>
+</member><member name="M:Ventaur.Web.Security.SSLHelper.DetermineUnsecurePage(Ventaur.Web.Security.Configuration.SecureWebPageSettings,System.Boolean)">
+	<summary>
+ Determines the unsecure page that should be requested if a redirect occurs.
+ </summary>
+	<param name="settings">The SecureWebPageSettings to use in determining.</param>
+	<param name="ignoreCurrentProtocol">
+ A flag indicating whether or not to ingore the current protocol when determining.
+ </param>
+	<returns>A string containing the absolute URL of the unsecure page to redirect to.</returns>
+</member><member name="M:Ventaur.Web.Security.SSLHelper.RequestSecurePage(Ventaur.Web.Security.Configuration.SecureWebPageSettings)">
+	<summary>
+ Requests the current page over a secure connection, if it is not already.
+ </summary>
+	<param name="settings">The SecureWebPageSettings to use for this request.</param>
+</member><member name="M:Ventaur.Web.Security.SSLHelper.RequestUnsecurePage(Ventaur.Web.Security.Configuration.SecureWebPageSettings)">
+	<summary>
+ Requests the current page over an unsecure connection, if it is not already.
+ </summary>
+	<param name="settings">The SecureWebPageSettings to use for this request.</param>
+</member><member name="M:Ventaur.Web.Security.SSLHelper.BuildUrl(System.Boolean,System.Boolean,System.String,System.String)">
+	<summary>
+ Builds a URL from the given protocol and appropriate host path. The resulting URL 
+ will maintain the current path if requested.
+ </summary>
+	<param name="secure">Is this to be a secure URL?</param>
+	<param name="maintainPath">Should the current path be maintained during transfer?</param>
+	<param name="encryptedUri">The URI to redirect to for encrypted requests.</param>
+	<param name="unencryptedUri">The URI to redirect to for standard requests.</param>
+	<returns></returns>
+</member><member name="M:Ventaur.Web.Security.SSLHelper.CleanHostUri(System.String)">
+	<summary>
+ Cleans a host path by stripping out any unneeded elements.
+ </summary>
+	<param name="uri">The host URI to validate.</param>
+	<returns>Returns a string that is stripped as needed.</returns>
+</member><member name="T:Ventaur.Web.Security.SSLHelper">
+	<summary>
+ Provides shared methods for ensuring that a page is rendered 
+ securely via SSL or unsecurely.
+ </summary>
+</member><member name="F:Ventaur.Web.Security.Configuration.SecurityType.Secure">
+	<summary>
+ The item should be secure.
+ </summary>
+</member><member name="F:Ventaur.Web.Security.Configuration.SecurityType.Insecure">
+	<summary>
+ The item should be insecure.
+ </summary>
+</member><member name="F:Ventaur.Web.Security.Configuration.SecurityType.Ignore">
+	<summary>
+ The item should be ignored.
+ </summary>
+</member><member name="T:Ventaur.Web.Security.Configuration.SecurityType">
+	<summary>
+ Indicates the type of security for a file or directory.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageItemSetting.#ctor">
+	<summary>
+ Creates an instance of SecureWebPageItemSetting.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageItemSetting.#ctor(System.String)">
+	<summary>
+ Creates an instance with an initial path value.
+ </summary>
+	<param name="path">The relative path to the file.</param>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageItemSetting.#ctor(System.String,Ventaur.Web.Security.Configuration.SecurityType)">
+	<summary>
+ Creates an instance with initial values.
+ </summary>
+	<param name="path">The relative path to the file.</param>
+	<param name="secure">The type of security for the file.</param>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageItemSetting.Path">
+	<summary>
+ Gets or sets the path of this item.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageItemSetting.Secure">
+	<summary>
+ Gets or sets the type of security for this item.
+ </summary>
+</member><member name="T:Ventaur.Web.Security.Configuration.SecureWebPageItemSetting">
+	<summary>
+ Represents an file or directory entry in the &lt;secureWebPages&gt;
+ configuration section.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageItemSettingCollection.IndexOf(Ventaur.Web.Security.Configuration.SecureWebPageItemSetting)">
+	<summary>
+ Returns the index of a specified item in the collection.
+ </summary>
+	<param name="item">The item to find.</param>
+	<returns>Returns the index of the item.</returns>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageItemSettingCollection.IndexOf(System.String)">
+	<summary>
+ Returns the index of an item with the specified path in the collection.
+ </summary>
+	<param name="Path">The path of the item to find.</param>
+	<returns>Returns the index of the item with the path.</returns>
+</member><member name="T:Ventaur.Web.Security.Configuration.SecureWebPageItemSettingCollection">
+	<summary>
+ Represents a collection of SecureWebPageItemSetting objects.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySetting.#ctor">
+	<summary>
+ Creates an instance of SecureWebPageDirectorySetting.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySetting.#ctor(System.String)">
+	<summary>
+ Creates an instance with an initial path value.
+ </summary>
+	<param name="path">The relative path to the directory.</param>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySetting.#ctor(System.String,Ventaur.Web.Security.Configuration.SecurityType)">
+	<summary>
+ Creates an instance with initial values.
+ </summary>
+	<param name="path">The relative path to the directory.</param>
+	<param name="secure">The type of security for the directory.</param>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySetting.#ctor(System.String,Ventaur.Web.Security.Configuration.SecurityType,System.Boolean)">
+	<summary>
+ Creates an instance with initial values.
+ </summary>
+	<param name="path">The relative path to the directory or file.</param>
+	<param name="secure">The type of security for the directory.</param>
+	<param name="recurse">A flag indicating whether or not to recurse this directory 
+ when evaluating security.</param>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySetting.Path">
+	<summary>
+ Gets or sets the path of this directory setting.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySetting.Recurse">
+	<summary>
+ Gets or sets a flag indicating whether or not to include all files in any sub-directories 
+ when evaluating a request.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySetting.PostDeserialize">
+	<summary>
+ Overriden to "clean-up" any inconsistent, yet allowed, input.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySetting.CleanPath(System.String)">
+	<summary>
+ Cleans the specified path as needed.
+ </summary>
+	<param name="path">The path to clean.</param>
+	<returns>A string containing the cleaned path value.</returns>
+</member><member name="T:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySetting">
+	<summary>
+ Represents a directory entry in the &lt;secureWebPages&gt;
+ configuration section.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySettingCollection.ElementName">
+	<summary>
+ Gets the element name for this collection.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySettingCollection.ThrowOnDuplicate">
+	<summary>
+ Gets a flag indicating an exception should be thrown if a duplicate element 
+ is added to the collection.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySettingCollection.Item(System.Int32)">
+	<summary>
+ Gets the element at the specified index.
+ </summary>
+	<param name="index">The index to retrieve the element from.</param>
+	<returns>The SecureWebPageDirectorySetting located at the specified index.</returns>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySettingCollection.Item(System.String)">
+	<summary>
+ Gets the element with the specified path.
+ </summary>
+	<param name="path">The path of the element to retrieve.</param>
+	<returns>The SecureWebPageDirectorySetting with the specified path.</returns>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySettingCollection.CreateNewElement">
+	<summary>
+ Creates a new element for this collection.
+ </summary>
+	<returns>A new instance of SecureWebPageFileSetting.</returns>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySettingCollection.GetElementKey(System.Configuration.ConfigurationElement)">
+	<summary>
+ Gets the key for the specified element.
+ </summary>
+	<param name="element">An element to get a key for.</param>
+	<returns>A string containing the Path of the SecureWebPageDirectorySetting.</returns>
+</member><member name="T:Ventaur.Web.Security.Configuration.SecureWebPageDirectorySettingCollection">
+	<summary>
+ Represents a collection of SecureWebPageDirectorySetting objects.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageFileSetting.#ctor">
+	<summary>
+ Creates an instance of SecureWebPageFileSetting.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageFileSetting.#ctor(System.String)">
+	<summary>
+ Creates an instance with an initial path value.
+ </summary>
+	<param name="path">The relative path to the file.</param>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageFileSetting.#ctor(System.String,Ventaur.Web.Security.Configuration.SecurityType)">
+	<summary>
+ Creates an instance with initial values.
+ </summary>
+	<param name="path">The relative path to the file.</param>
+	<param name="secure">The type of security for the file.</param>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageFileSetting.Path">
+	<summary>
+ Gets or sets the path of this file setting.
+ </summary>
+</member><member name="T:Ventaur.Web.Security.Configuration.SecureWebPageFileSetting">
+	<summary>
+ Represents an file entry in the &lt;secureWebPages&gt;
+ configuration section.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageFileSettingCollection.ElementName">
+	<summary>
+ Gets the element name for this collection.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageFileSettingCollection.ThrowOnDuplicate">
+	<summary>
+ Gets a flag indicating an exception should be thrown if a duplicate element 
+ is added to the collection.
+ </summary>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageFileSettingCollection.Item(System.Int32)">
+	<summary>
+ Gets the element at the specified index.
+ </summary>
+	<param name="index">The index to retrieve the element from.</param>
+	<returns>The SecureWebPageFileSetting located at the specified index.</returns>
+</member><member name="P:Ventaur.Web.Security.Configuration.SecureWebPageFileSettingCollection.Item(System.String)">
+	<summary>
+ Gets the element with the specified path.
+ </summary>
+	<param name="path">The path of the element to retrieve.</param>
+	<returns>The SecureWebPageFileSetting with the specified path.</returns>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageFileSettingCollection.CreateNewElement">
+	<summary>
+ Creates a new element for this collection.
+ </summary>
+	<returns>A new instance of SecureWebPageFileSetting.</returns>
+</member><member name="M:Ventaur.Web.Security.Configuration.SecureWebPageFileSettingCollection.GetElementKey(System.Configuration.ConfigurationElement)">
+	<summary>
+ Gets the key for the specified element.
+ </summary>
+	<param name="element">An element to get a key for.</param>
+	<returns>A string containing the Path of the SecureWebPageFileSetting.</returns>
+</member><member name="T:Ventaur.Web.Security.Configuration.SecureWebPageFileSettingCollection">
+	<summary>
+ Represents a collection of SecureWebPageFileSetting objects.
+ </summary>
+</member><member name="P:My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Ventaur.Web.Security.SecureWebPageModule.#ctor">
+	<summary>
+ Initializes an instance of this class.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.SecureWebPageModule.Dispose">
+	<summary>
+ Disposes of any resources used.
+ </summary>
+</member><member name="M:Ventaur.Web.Security.SecureWebPageModule.Init(System.Web.HttpApplication)">
+	<summary>
+ Initializes the module by hooking the application's BeginRequest event if indicated by the config settings.
+ </summary>
+	<param name="application">The HttpApplication this module is bound to.</param>
+</member><member name="M:Ventaur.Web.Security.SecureWebPageModule.Application_BeginRequest(System.Object,System.EventArgs)">
+	<summary>
+ Handle the application's BeginRequest event by requesting the current
+ page securely, if specified.
+ </summary>
+	<param name="source">The source of the event.</param>
+	<param name="e">EventArgs passed in.</param>
+</member><member name="T:Ventaur.Web.Security.SecureWebPageModule">
+	<summary>
+ Hooks the application's BeginRequest event in order to request the current 
+ page securely if specified in the configuration file.
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,55 @@
+<%@ Master Language="C#" %>
+
+<html>
+    <head>
+        <title>Cafe Deluxe Restaurant- Home</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+	
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <meta NAME="description" CONTENT="Cafe Deluxe combines the charm of a neighborhood tavern with the energy of a 
+        bustling European bistro, serving traditional comfort foods with a modern flair.">
+        <meta NAME="keywords" CONTENT="Cafe Deluxe restaurant,Cafe Deluxe,Cafe Deluxe Bistro,food,
+        dining,dinner,lunch,brunch, restaurant, Cafe,food,job,employment opportunities, 
+        chef and restaurant manager opportunities, kitchen managers, career, fine dining, 
+        meeting place,bar,drinks, margaritas,menu,Tortilla Coast,Mexican, Bethesda,Capitol Hill,Washington DC,Maryland, gift certificates,fun,map recruitment">
+        
+       <script type="text/javascript">
+	   
+		
+		function popChat() {
+		    window.open("http://www.givex.com/Merchant_pages/3659_pl/terminal/terminalframes.htm", "myWindow", 
+		"status = 1, height = 355, width = 280, resizable = 1, scrollbars = 0" )
+		}
+
+	</script>
+     
+    </head>
+
+    <body bgcolor="#F3C05A" background="images/bkg.gif" text="#000000" link="#000000" vlink="#cc6600" alink="#6666cc" topmargin="0">
+       
+    <table border="0" width="241px" align="left">
+      <tr>
+        <td height="483" align="left" valign="top">     
+	        <img src="images/animatedframe.gif" WIDTH="150" HEIGHT="130"><br>
+        	
+	        <ul class="nav_left">
+		        <li class="menu"><a href="Redirector.aspx?Page=menu.htm" title="Menu" name="menu"></a></li>
+		        <li class="private"><a href="Redirector.aspx?Page=private.htm" title="Private Dining" name="private"></a></li>
+		        <li class="gift"><a href="giftcards.aspx" title="Gift Cards" class="selected" name="giftcards"></a></li>
+		        <li class="location"><a href="Redirector.aspx?Page=locations.htm" title="Locations" name="location"></a></li>
+		        <li class="jobs"><a href="Redirector.aspx?Page=jobs.htm" title="Jobs" name="jobs"></a></li>
+		        <li class="contact"><a href="Redirector.aspx?Page=contactus.htm" title="Contact Us" name="contact"</a></li>
+	        </ul>
+
+            <a href="http://www.tortillacoast.com" target="_blank"><img src="images/tcoastbanner.gif" alt="Tortilla Coast" border="0" WIDTH="139" HEIGHT="104"></a>
+        </td>
+      </tr>
+    </table>
+    <table width="26" align="left">
+
+</table>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>

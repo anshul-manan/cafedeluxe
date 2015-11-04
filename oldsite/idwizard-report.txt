@@ -1,0 +1,38 @@
+WebSite Identity Wizard - Setup Transcript and Report
+=====================================================
+
+Identity setup for cafedeluxe.com [virtual]
+performed at Tue Mar 06 03:49:53 2001
+
+
+This identity shares the same mappings as other identities using 
+the URL prefix (nickname) "cafedeluxe". Therefore no new directories or 
+mappings have been created.
+
+STEP 1: IDENTITY ASSIGNMENTS
+----------------------------
+
+Assigned virtual host name cafedeluxe.com
+Assigned URL Prefix cafedeluxe to host name cafedeluxe.com
+Requests will be logged in cafedeluxe.log
+Administrator's email address initially set to master: <edelente@enforme.com>
+Set anonymous account for NT native operation to wspro_anon
+
+NOTES
+=====
+
+* The URL for cafedeluxe.com's home page is http://cafedeluxe.com/
+  which has been mapped to directory D:\WebSite\htdocs\cafedeluxe\htdocs\
+
+* Empty access and publish control paths have been added if not already present.
+
+* cafedeluxe.com is an IP-less identity. It is not bound to a unique IP address.
+  Therefore it will work only with browsers that send the server hostname
+  with each request. Most current browsers support the Host: header.
+  It will also not work with SSL, as the Host: header field is required to
+  identify the target hostname, the target hostname is required to send
+  the appropriate certificate to open the SSL connection, yet the Host:
+  header cannot be read until the SSL connection is open. This "chicken and
+  egg" problem is unsolvable until SSL itself is changed.
+
+-- end of report --
